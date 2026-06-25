@@ -20,6 +20,7 @@ Maintained as a living document — updated as new links are added.
 - [UI & Design](#ui--design)
 - [Hardware & Tinkering](#hardware--tinkering)
 - [Streaming & Broadcasting](#streaming--broadcasting)
+  - [Platform Statistics & Analytics](#platform-statistics--analytics)
 - [Open Source & Dev Practice](#open-source--dev-practice)
 - [Reading](#reading)
 - [Community & Threads](#community--threads)
@@ -156,6 +157,16 @@ Maintained as a living document — updated as new links are added.
 
 - [LoL Esports Broadcasting Guide](https://github.com/SolitudeRA/LoL-Esports-Broadcasting-Guide) — Practical tips for high-quality esports streams: OBS setup, audio management, and scene switching.
 
+### Platform Statistics & Analytics
+
+- [Streams Charts](https://streamscharts.com/overview) — Live streaming analytics across Twitch, YouTube, Kick, and more.
+- [Twitch Tracker](https://twitchtracker.com/statistics/games) — Historical and current game viewership statistics on Twitch.
+- [Twitch Metrics](https://www.twitchmetrics.net/games/viewership) — Game viewership trends and channel analytics for Twitch.
+- [Social Blade](https://socialblade.com/) — Creator growth tracking across Twitch, YouTube, TikTok, and other platforms.
+- [KickStats](https://www.kickstats.com/) — Viewer and streamer statistics for the Kick platform.
+- [Steam Charts](https://steamcharts.com/) — Concurrent player statistics for Steam games over time.
+- [SullyGnome](https://sullygnome.com/games/watched) — Detailed Twitch analytics: hours watched, peak viewers, and game trends.
+
 ---
 
 ## Open Source & Dev Practice
@@ -167,6 +178,8 @@ Maintained as a living document — updated as new links are added.
 ## Reading
 
 - [The Demon-Haunted World — Carl Sagan](https://archive.org/details/B-001-001-709/page/n11/mode/2up) — Sagan's case for scientific thinking and skepticism. Free on the Internet Archive.
+- [Psychological Types — C.G. Jung](https://archive.org/details/dli.ernet.7919/page/n11/mode/2up) — Jung's foundational work on psychological typology and individuation. Free on the Internet Archive.
+- [Psychology and Alchemy — C.G. Jung](https://maypoleofwisdom.com/wp-content/uploads/2021/02/collected-works-of-c.g.-jung-volume-12-psychology-and-alchemy-pdfdrive-.pdf) — Volume 12 of Jung's Collected Works. Explores alchemical symbolism as a map of the unconscious.
 - [Beyond Music Theory — Cadences and Negative Harmony](https://www.beyondmusictheory.org/cadences-and-negative-harmony/) — Theory deep dive on cadences and the concept of negative harmony.
 
 ---
