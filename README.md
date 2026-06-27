@@ -11,6 +11,7 @@ Maintained as a living document — updated as new links are added.
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Web Development](#web-development)
+- [Real-Time & Media](#real-time--media)
 - [3D & Graphics](#3d--graphics)
 - [AI & Machine Learning](#ai--machine-learning)
 - [Security](#security)
@@ -22,6 +23,8 @@ Maintained as a living document — updated as new links are added.
 - [Streaming & Broadcasting](#streaming--broadcasting)
   - [Platform Statistics & Analytics](#platform-statistics--analytics)
 - [Open Source & Dev Practice](#open-source--dev-practice)
+- [Psychology of Games](#psychology-of-games)
+- [Awesome Lists](#awesome-lists)
 - [Reading](#reading)
 - [Community & Threads](#community--threads)
 
@@ -42,6 +45,7 @@ Maintained as a living document — updated as new links are added.
 - [GNU Bash Manual](https://www.gnu.org/software/bash/manual/html_node/index.html) — Official reference for the Bash shell.
 - [Linuxize](https://linuxize.com/) — Practical Linux tutorials and command references.
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
+- [Linux Foundation Training](https://training.linuxfoundation.org/) — Official training and certification programs from the Linux Foundation.
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) — Comprehensive quick-reference for Bash scripting and command line usage.
 - [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
 - [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
@@ -60,6 +64,20 @@ Maintained as a living document — updated as new links are added.
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
 - [React Bits](https://reactbits.dev/) — Collection of React patterns, techniques, and tips.
 - [Motion](https://motion.dev/) — Animation library for the web (formerly Framer Motion's standalone release).
+- [Anime.js](https://github.com/juliangarnier/anime) — Lightweight JavaScript animation library with a simple but powerful API.
+- [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
+- [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
+- [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
+- [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
+- [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
+- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices made public: code reviews, CI/CD, testing, and more.
+
+---
+
+## Real-Time & Media
+
+- [LiveKit](https://livekit.com/) — Open source infrastructure for real-time audio, video, and data. WebRTC at scale.
+- [openWakeWord](https://github.com/dscripka/openWakeWord) — Open-source wake word and phrase detection framework focused on performance and simplicity.
 
 ---
 
@@ -74,6 +92,7 @@ Maintained as a living document — updated as new links are added.
 
 ## AI & Machine Learning
 
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — The original transformer paper by Vaswani et al. (2017). Foundational reading for understanding modern LLMs.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
 - [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
 - [Unsloth](https://unsloth.ai/) — Fine-tuning framework for LLMs, focused on speed and low memory usage.
@@ -172,6 +191,26 @@ Maintained as a living document — updated as new links are added.
 ## Open Source & Dev Practice
 
 - [GitHub Open Source Guide](https://github.com/github/opensource.guide) — Best practices for launching and maintaining open source projects.
+- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
+
+---
+
+## Psychology of Games
+
+- [Psychology of Games](https://www.psychologyofgames.com/about/) — Applied psychology concepts through the lens of video games.
+- [The Psychological Appeal of Video Games (NIH)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6676913/) — Peer-reviewed paper on motivation, flow, and need satisfaction in gaming contexts.
+- [Exploring the Psychology of Gaming](https://greatermanchester.ac.uk/blogs/exploring-the-psychology-of-gaming) — Greater Manchester overview of cognitive and behavioral research around gaming habits.
+
+---
+
+## Awesome Lists
+
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) — Curated resources for learning and practicing algorithms.
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) — Papers, books, and courses on database internals and theory.
+- [Awesome APIs](https://github.com/whizkydee/Awesome-APIs) — Collection of public APIs organized by category.
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) — Sindre Sorhus's curated list of Node.js packages and resources.
+- [Awesome React](https://github.com/enaqx/awesome-react) — Comprehensive collection of React ecosystem tools, libraries, and learning resources.
+- [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) — Skills, tools, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code).
 
 ---
 
