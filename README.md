@@ -14,6 +14,9 @@ Maintained as a living document — updated as new links are added.
 - [Real-Time & Media](#real-time--media)
 - [3D & Graphics](#3d--graphics)
 - [AI & Machine Learning](#ai--machine-learning)
+  - [Learning Resources](#learning-resources)
+  - [Tools & Frameworks](#tools--frameworks)
+  - [Leaderboards & Benchmarks](#leaderboards--benchmarks)
 - [Security](#security)
 - [OSINT](#osint)
 - [Red Team & Offensive Tools](#red-team--offensive-tools)
@@ -37,6 +40,8 @@ Maintained as a living document — updated as new links are added.
 - [Unicorn Engine](https://github.com/unicorn-engine/unicorn) — Lightweight, multi-architecture CPU emulator framework.
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) — Open source VMM for running modern cloud workloads on KVM.
 - [1xBTS](https://github.com/chrismoos/1xbts) — Open source CDMA2000 cellular network implementation.
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
+- [System Design Pattern](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, etc.
 
 ---
 
@@ -48,6 +53,7 @@ Maintained as a living document — updated as new links are added.
 - [Linux Foundation Training](https://training.linuxfoundation.org/) — Official training and certification programs from the Linux Foundation.
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) — Comprehensive quick-reference for Bash scripting and command line usage.
 - [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
+- [Zed](https://zed.dev/) — High-performance, multiplayer code editor built in Rust.
 - [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
 
 ---
@@ -62,15 +68,20 @@ Maintained as a living document — updated as new links are added.
 
 - [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
+- [Relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [Fate](https://github.com/nkzw-tech/fate) - Fate is a modern data client for React. 
 - [React Bits](https://reactbits.dev/) — Collection of React patterns, techniques, and tips.
 - [Motion](https://motion.dev/) — Animation library for the web (formerly Framer Motion's standalone release).
 - [Anime.js](https://github.com/juliangarnier/anime) — Lightweight JavaScript animation library with a simple but powerful API.
+- [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
+- [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
 - [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
 - [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
 - [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
 - [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
+- [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
 - [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
-- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices made public: code reviews, CI/CD, testing, and more.
+- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
 
 ---
 
@@ -92,12 +103,26 @@ Maintained as a living document — updated as new links are added.
 
 ## AI & Machine Learning
 
+### Learning Resources
+
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — The original transformer paper by Vaswani et al. (2017). Foundational reading for understanding modern LLMs.
+- [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
+- [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — Structured roadmap for becoming an AI engineer, from fundamentals to deployment.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
 - [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
+- [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
+- [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
+
+### Tools & Frameworks
+
+- [LlamaIndex](https://www.llamaindex.ai/) — Data framework for connecting LLMs to external data sources and building RAG pipelines.
+- [LangChain](https://www.langchain.com/) — Framework for building LLM-powered applications with chains, agents, and memory.
+- [Weights & Biases](https://wandb.ai/site) — ML experiment tracking, model monitoring, and dataset versioning platform.
 - [Unsloth](https://unsloth.ai/) — Fine-tuning framework for LLMs, focused on speed and low memory usage.
 - [LM Studio JS](https://github.com/lmstudio-ai/lmstudio-js) — JavaScript SDK for interacting with LM Studio's local model runtime.
 - [OpenHands](https://github.com/OpenHands/OpenHands) — Platform for AI-powered software development agents.
+- [opencode](https://opencode.ai/docs/) — Open source AI coding agent for the terminal.
+- [Pi](https://pi.dev/) — Personal AI development environment.
 - [Odysseus](https://github.com/pewdiepie-archdaemon/odysseus) — Self-hosted AI workspace.
 - [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) — All-in-one local AI app for chat, image generation, and video creation. Powered by Ollama & ComfyUI.
 - [Voicebox](https://github.com/jamiepine/voicebox) — Open-source AI voice studio for cloning, dictation, and creation.
@@ -105,15 +130,20 @@ Maintained as a living document — updated as new links are added.
 - [LingBot World](https://github.com/Robbyant/lingbot-world) — Open-source world model research.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam) — Real-time face swap and deepfake video tool.
 
+### Leaderboards & Benchmarks
+
+- [Artificial Analysis](https://artificialanalysis.ai/leaderboards/models) — Independent benchmarks comparing LLM quality, speed, and cost across providers.
+- [LLM Stats](https://llm-stats.com/) — Live stats and rankings across major language models.
+
 ---
 
 ## Security
 
 - [GIAC GWAPT Certification](https://www.giac.org/certifications/web-application-penetration-tester-gwapt) — Web Application Penetration Tester certification by GIAC.
 - [Real-World Bug Hunting (PDF)](https://github.com/Raunaksplanet/My-CyberSecurity-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf) — Peter Yaworski's field guide to web hacking and bug bounty hunting.
+- [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) — Free, comprehensive guide to Metasploit from Offensive Security.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — Extensive list of payloads and bypass techniques for web application security testing.
 - [SecLists](https://github.com/danielmiessler/SecLists) — Collection of wordlists for security testing: usernames, passwords, URLs, fuzzing data, and more.
-- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) — Curated list of fuzzing resources, tools, and tutorials.
 - [Pentest Book](https://github.com/six2dez/pentest-book) — Comprehensive pentesting methodology and notes.
 - [Pentest Wiki](https://github.com/nixawk/pentest-wiki) — Free online security knowledge base for pentesters and researchers.
 - [InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) — Active Directory and internal network attack techniques reference.
@@ -140,6 +170,7 @@ Maintained as a living document — updated as new links are added.
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) — Curated list of OSINT tools, resources, and techniques.
 - [TCM OSINT Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources) — Resource list from TCM Security's OSINT course.
 - [SpiderFoot](https://spiderrfoot.com/) — Automated OSINT and attack surface monitoring platform.
+- [Maltego](https://www.maltego.com/) — Link-analysis and data-gathering platform for OSINT investigations and threat intelligence.
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) — OSINT tool for tracking and gathering intelligence on targets.
 
 ---
@@ -208,6 +239,8 @@ Maintained as a living document — updated as new links are added.
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) — Curated resources for learning and practicing algorithms.
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) — Papers, books, and courses on database internals and theory.
 - [Awesome APIs](https://github.com/whizkydee/Awesome-APIs) — Collection of public APIs organized by category.
+- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) — Curated list of fuzzing resources, tools, and tutorials.
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) — Curated list of OSINT tools, resources, and techniques.
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) — Sindre Sorhus's curated list of Node.js packages and resources.
 - [Awesome React](https://github.com/enaqx/awesome-react) — Comprehensive collection of React ecosystem tools, libraries, and learning resources.
 - [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) — Skills, tools, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code).
@@ -231,4 +264,4 @@ Maintained as a living document — updated as new links are added.
 
 ---
 
-*Last updated: June 2026*
+*Last updated: July 2026*
