@@ -11,6 +11,7 @@ Maintained as a living document — updated as new links are added.
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Web Development](#web-development)
+  - [Tools & Frameworks](##web-tools--frameworks)
 - [Real-Time & Media](#real-time--media)
 - [3D & Graphics](#3d--graphics)
 - [AI & Machine Learning](#ai--machine-learning)
@@ -42,6 +43,7 @@ Maintained as a living document — updated as new links are added.
 - [1xBTS](https://github.com/chrismoos/1xbts) — Open source CDMA2000 cellular network implementation.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
 - [System Design Pattern](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, etc.
+- [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
 
 ---
 
@@ -69,6 +71,15 @@ Maintained as a living document — updated as new links are added.
 
 - [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
+- [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
+- [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
+- [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
+- [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
+
+### Web Tools & Frameworks
+
 - [Relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [Fate](https://github.com/nkzw-tech/fate) - Fate is a modern data client for React. 
 - [React Bits](https://reactbits.dev/) — Collection of React patterns, techniques, and tips.
@@ -77,13 +88,7 @@ Maintained as a living document — updated as new links are added.
 - [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 - [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
 - [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
-- [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
-- [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
-- [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
-- [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
-- [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
-- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
 
 ---
 
@@ -111,6 +116,7 @@ Maintained as a living document — updated as new links are added.
 - [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — Structured roadmap for becoming an AI engineer, from fundamentals to deployment.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
+- [Elements of AI](https://www.elementsofai.com/) - The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki.
 - [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
 - [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
 - [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
