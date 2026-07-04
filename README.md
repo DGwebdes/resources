@@ -61,10 +61,11 @@ Maintained as a living document — updated as new links are added.
 ## Algorithms & Data Structures
 
 - [VisuAlgo](https://visualgo.net/en) — Interactive visualizations for sorting, graphs, trees, and other algorithms.
+- [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations.
 
 ---
 
-## Web Development
+## Web & Sofware Development
 
 - [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
@@ -82,6 +83,7 @@ Maintained as a living document — updated as new links are added.
 - [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
 - [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
 - [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ---
 
@@ -221,6 +223,7 @@ Maintained as a living document — updated as new links are added.
 
 ## Open Source & Dev Practice
 
+- [Nodejs Best Practices](https://github.com/goldbergyoni/nodebestpractices) - The Node.js best practices list (July 2026).
 - [GitHub Open Source Guide](https://github.com/github/opensource.guide) — Best practices for launching and maintaining open source projects.
 - [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
 
@@ -244,6 +247,7 @@ Maintained as a living document — updated as new links are added.
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) — Sindre Sorhus's curated list of Node.js packages and resources.
 - [Awesome React](https://github.com/enaqx/awesome-react) — Comprehensive collection of React ecosystem tools, libraries, and learning resources.
 - [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) — Skills, tools, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code).
+- [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
 
 ---
 
@@ -253,6 +257,7 @@ Maintained as a living document — updated as new links are added.
 - [Psychological Types — C.G. Jung](https://archive.org/details/dli.ernet.7919/page/n11/mode/2up) — Jung's foundational work on psychological typology and individuation. Free on the Internet Archive.
 - [Psychology and Alchemy — C.G. Jung](https://maypoleofwisdom.com/wp-content/uploads/2021/02/collected-works-of-c.g.-jung-volume-12-psychology-and-alchemy-pdfdrive-.pdf) — Volume 12 of Jung's Collected Works. Explores alchemical symbolism as a map of the unconscious.
 - [Beyond Music Theory — Cadences and Negative Harmony](https://www.beyondmusictheory.org/cadences-and-negative-harmony/) — Theory deep dive on cadences and the concept of negative harmony.
+- [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 
 ---
 
