@@ -11,7 +11,7 @@ Maintained as a living document — updated as new links are added.
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Web Development](#web-development)
-  - [Tools & Frameworks](##web-tools--frameworks)
+  - [Tools & Frameworks](#web-tools--frameworks)
 - [Real-Time & Media](#real-time--media)
 - [3D & Graphics](#3d--graphics)
 - [AI & Machine Learning](#ai--machine-learning)
