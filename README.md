@@ -10,7 +10,7 @@ Maintained as a living document — updated as new links are added.
 - [Systems & Low-Level](#systems--low-level)
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
-- [Web Development](#web-development)
+- [Web Development](#web--software-development)
   - [Tools & Frameworks](#web-tools--frameworks)
 - [Real-Time & Media](#real-time--media)
 - [3D & Graphics](#3d--graphics)
@@ -31,6 +31,7 @@ Maintained as a living document — updated as new links are added.
 - [Awesome Lists](#awesome-lists)
 - [Reading](#reading)
 - [Community & Threads](#community--threads)
+- [Certifications](#certifications)
 
 ---
 
@@ -272,6 +273,18 @@ Maintained as a living document — updated as new links are added.
 - [Thread by @0xchromium](https://x.com/0xchromium/status/2063321324605280569)
 - [Thread by @ai_rohitt](https://x.com/ai_rohitt/status/2065674564663996575)
 - [Thread by @0xMovez](https://x.com/0xMovez/status/2058923765526864337)
+
+---
+
+## Certifications
+
+- [Kubernetes KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) - Proving you understand cloud native ecosystems will help you land that dream job.
+- [Github Actions](https://learn.github.com/certification/ACTIONS) - This exam is designed for DevOps engineers, software developers, and IT professionals.
+- [Terraform Associate](https://developer.hashicorp.com/certifications/infrastructure-automation) - Demonstrate your advanced Terraform production experience with the Terraform Authoring and Operations Professional certification.
+- [DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) - Certification teaches you to build automated security pipelines, manage vulnerabilities at scale, and drive the cultural change needed to make security everyone’s responsibility.
+- [AWS AI Practicioner](https://aws.amazon.com/certification/certified-ai-practitioner/) - Validates in-demand knowledge of artificial intelligence (AI), machine learning (ML), and generative AI concepts and use cases.
+- [AWS Cloud Practicioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
+- [Linux Foundation IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) - It is ideal for those getting started in an IT career as an administrator/engineer.
 
 ---
 
