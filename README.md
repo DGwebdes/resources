@@ -265,6 +265,12 @@ Maintained as a living document — updated as new links are added.
 - [Psychology and Alchemy — C.G. Jung](https://maypoleofwisdom.com/wp-content/uploads/2021/02/collected-works-of-c.g.-jung-volume-12-psychology-and-alchemy-pdfdrive-.pdf) — Volume 12 of Jung's Collected Works. Explores alchemical symbolism as a map of the unconscious.
 - [Beyond Music Theory — Cadences and Negative Harmony](https://www.beyondmusictheory.org/cadences-and-negative-harmony/) — Theory deep dive on cadences and the concept of negative harmony.
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [Thinking in Systems - A Primer](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf) - Focused on understanding how interconnected parts within a system generate its overall behavior, rather than analyzing individual components in isolation.
+- [Cracking the Code Interview](https://dn760101.eu.archive.org/0/items/4-programming-interviews-exposed-4th-edition/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) - Gives you the interview preparation you need to get the top software developer jobs.
+- [Psychology of Intelligence Analysis](https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf) - Interesting application of cognitive psychology and decision analysis in intelligence analysis.
+- [Software Engineering](https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf) - A broad perspective on software processes, requirements, and design.
+- [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, etc...
+- [Computer Networking A Top-Down Approach](https://qige.io/network/Kurose-7.pdf) - Introduces this complex subject in a top-down manner, proceeding from the application layer toward the physical layer and familiarizing you with important concepts early in your study. 
 
 ---
 
