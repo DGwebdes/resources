@@ -70,7 +70,7 @@ Maintained as a living document — updated as new links are added.
 
 ---
 
-## Web & Sofware Development
+## Web & Software Development
 
 - [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
@@ -173,6 +173,7 @@ Maintained as a living document — updated as new links are added.
 - [Impacket](https://salsa.debian.org/python-team/packages/impacket) — Python library for working with network protocols; widely used in AD exploitation.
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) — AI-powered Raspberry Pi tool for Wi-Fi handshake capture via passive monitoring.
 - [Bjorn](https://github.com/infinition/Bjorn) — Network scanning and offensive security tool for Raspberry Pi with e-Paper display support.
+- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html) - A concise collection of high value information on specific application security topics.
 
 ---
 
