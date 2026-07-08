@@ -10,8 +10,8 @@ Maintained as a living document — updated as new links are added.
 - [Systems & Low-Level](#systems--low-level)
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
-- [Web Development](#web--software-development)
-  - [Tools & Frameworks](#web-tools--frameworks)
+- [Web & Software Development](#web--software-development)
+  - [Web Tools & Frameworks](#web-tools--frameworks)
 - [Real-Time & Media](#real-time--media)
 - [3D & Graphics](#3d--graphics)
 - [AI & Machine Learning](#ai--machine-learning)
@@ -45,6 +45,8 @@ Maintained as a living document — updated as new links are added.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
 - [System Design Pattern](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, etc.
 - [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
+- [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
+- [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - Technical resources and utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.
 
 ---
 
@@ -114,6 +116,7 @@ Maintained as a living document — updated as new links are added.
 ### Learning Resources
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — The original transformer paper by Vaswani et al. (2017). Foundational reading for understanding modern LLMs.
+- [Prompt Injection Attacks](https://arxiv.org/html/2601.17548v1) - A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems.
 - [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — Structured roadmap for becoming an AI engineer, from fundamentals to deployment.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
@@ -261,6 +264,7 @@ Maintained as a living document — updated as new links are added.
 ## Reading
 
 - [The Demon-Haunted World — Carl Sagan](https://archive.org/details/B-001-001-709/page/n11/mode/2up) — Sagan's case for scientific thinking and skepticism. Free on the Internet Archive.
+- [Tolkien Gateway](https://tolkiengateway.net/wiki/The_Silmarillion#Contents) - The Tolkien Gateway is a fan wiki that documents J. R. R. Tolkien's fantasy world of Middle-earth.
 - [Psychological Types — C.G. Jung](https://archive.org/details/dli.ernet.7919/page/n11/mode/2up) — Jung's foundational work on psychological typology and individuation. Free on the Internet Archive.
 - [Psychology and Alchemy — C.G. Jung](https://maypoleofwisdom.com/wp-content/uploads/2021/02/collected-works-of-c.g.-jung-volume-12-psychology-and-alchemy-pdfdrive-.pdf) — Volume 12 of Jung's Collected Works. Explores alchemical symbolism as a map of the unconscious.
 - [Beyond Music Theory — Cadences and Negative Harmony](https://www.beyondmusictheory.org/cadences-and-negative-harmony/) — Theory deep dive on cadences and the concept of negative harmony.
@@ -274,11 +278,12 @@ Maintained as a living document — updated as new links are added.
 
 ---
 
-## Community & Threads
+## Community & Threads  
 
 - [Thread by @0xchromium](https://x.com/0xchromium/status/2063321324605280569)
 - [Thread by @ai_rohitt](https://x.com/ai_rohitt/status/2065674564663996575)
 - [Thread by @0xMovez](https://x.com/0xMovez/status/2058923765526864337)
+- [Repos for Software Engineering Study](https://orozaskarov.medium.com/top-github-repos-for-free-software-engineering-study-resources-e8c36c696be6) - Some of the top GitHub repositories that are absolute goldmines.
 
 ---
 
