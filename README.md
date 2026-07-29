@@ -45,21 +45,18 @@ Maintained as a living document — updated as new links are added.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
 - [System Design Pattern](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, etc.
 - [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
-- [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
 - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - Technical resources and utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.
+- [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
 
 ---
 
 ## Linux & Command Line
 
-- [GNU Bash Manual](https://www.gnu.org/software/bash/manual/html_node/index.html) — Official reference for the Bash shell.
 - [Linuxize](https://linuxize.com/) — Practical Linux tutorials and command references.
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
+- [GNU Bash Manual](https://www.gnu.org/software/bash/manual/html_node/index.html) — Official reference for the Bash shell.
 - [Linux Foundation Training](https://training.linuxfoundation.org/) — Official training and certification programs from the Linux Foundation.
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) — Comprehensive quick-reference for Bash scripting and command line usage.
-- [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
-- [Zed](https://zed.dev/) — High-performance, multiplayer code editor built in Rust.
-- [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
 
 ---
 
@@ -76,7 +73,6 @@ Maintained as a living document — updated as new links are added.
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
 - [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
 - [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
-- [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
 - [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
@@ -91,7 +87,10 @@ Maintained as a living document — updated as new links are added.
 - [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 - [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
 - [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
-
+- [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
+- [Zed](https://zed.dev/) — High-performance, multiplayer code editor built in Rust.
+- [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
+- [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
 
 ---
 
