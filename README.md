@@ -32,6 +32,7 @@ Maintained as a living document — updated as new links are added.
 - [Reading](#reading)
 - [Community & Threads](#community--threads)
 - [Certifications](#certifications)
+- [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -55,6 +56,7 @@ Maintained as a living document — updated as new links are added.
 
 - [Linuxize](https://linuxize.com/) — Practical Linux tutorials and command references.
 - [GNU Bash Manual](https://www.gnu.org/software/bash/manual/html_node/index.html) — Official reference for the Bash shell.
+- [Bash Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/) - This is a practical guide which, while not always being too serious, tries to give real-life instead of theoretical examples.
 - [Linux Foundation Training](https://training.linuxfoundation.org/) — Official training and certification programs from the Linux Foundation.
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) — Comprehensive quick-reference for Bash scripting and command line usage.
 
@@ -75,7 +77,9 @@ Maintained as a living document — updated as new links are added.
 - [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
 - [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [Design Patterns PHP](https://designpatternsphp.readthedocs.io/en/latest/) - This is a collection of known design patterns and some sample code how to implement them in PHP.
 - [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
+- [Backstage.io](https://backstage.io/) - An open source framework for building developer portals.
 
 ### Web Tools & Frameworks
 
@@ -91,6 +95,7 @@ Maintained as a living document — updated as new links are added.
 - [Zed](https://zed.dev/) — High-performance, multiplayer code editor built in Rust.
 - [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
 - [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
+- [ELK Stack](https://www.elastic.co/elastic-stack/) - Elasticsearch and Kibana pave the way for diverse use cases that start with logging and span as far as your imagination takes you.
 
 ---
 
@@ -121,6 +126,8 @@ Maintained as a living document — updated as new links are added.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
 - [Elements of AI](https://www.elementsofai.com/) - The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki.
 - [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
+- [Prompt Engineering](https://www.promptingguide.ai/) - Prompt engineering skills help to better understand the capabilities and limitations of large language models.
+- [Agents.md](https://agents.md/) - A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
 - [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
 - [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
 
@@ -140,6 +147,7 @@ Maintained as a living document — updated as new links are added.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) — Agentic framework by Nous Research built on the Hermes model series.
 - [LingBot World](https://github.com/Robbyant/lingbot-world) — Open-source world model research.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam) — Real-time face swap and deepfake video tool.
+- [Niantic Spatial](https://www.nianticspatial.com/en) - Robots, agents, and autonomous systems need world models grounded in physics and geometry, not imagination.
 
 ### Leaderboards & Benchmarks
 
@@ -173,6 +181,9 @@ Maintained as a living document — updated as new links are added.
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) — AI-powered Raspberry Pi tool for Wi-Fi handshake capture via passive monitoring.
 - [Bjorn](https://github.com/infinition/Bjorn) — Network scanning and offensive security tool for Raspberry Pi with e-Paper display support.
 - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html) - A concise collection of high value information on specific application security topics.
+- [BuiltWith](https://builtwith.com/) - Find out what websites are Built With.
+- [WhatWeb](https://whatweb.net/) - Scan your domain or IP address to identify content management systems, JavaScript libraries, web servers, and more.
+- [Wappalyzer](https://www.wappalyzer.com/) - Find accounts by the technologies they use.
 
 ---
 
@@ -204,6 +215,7 @@ Maintained as a living document — updated as new links are added.
 
 ## UI & Design
 
+- [Shadcn](https://ui.shadcn.com/) — A set of beautifully designed components that you can customize, extend, and build on.
 - [Huemint](https://huemint.com/) — AI-powered color palette generator for branding and UI.
 - [Fluid Type Scale](https://www.fluid-type-scale.com/) — Generate CSS clamp-based fluid typography scales.
 
@@ -289,6 +301,9 @@ Maintained as a living document — updated as new links are added.
 
 ## Certifications
 
+- [ISC2](https://www.isc2.org/about) - A non-profit organization which specializes in training and professional certifications for cybersecurity professionals.
+- [Universidade Aberta](https://portal.uab.pt/?lang=en) - Established in 1988, Universidade Aberta (UAb) is the single public distance education university in Portugal.
+- [Digital Skills & Job Platforms](https://digital-skills-jobs.europa.eu/en/cybersecurity-skills-academy) - The Cyber Skills Academy is an EU initiative aiming at addressing the growing cybersecurity skills and talent shortage in Europe. 
 - [Kubernetes KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) - Proving you understand cloud native ecosystems will help you land that dream job.
 - [Github Actions](https://learn.github.com/certification/ACTIONS) - This exam is designed for DevOps engineers, software developers, and IT professionals.
 - [Terraform Associate](https://developer.hashicorp.com/certifications/infrastructure-automation) - Demonstrate your advanced Terraform production experience with the Terraform Authoring and Operations Professional certification.
@@ -298,5 +313,9 @@ Maintained as a living document — updated as new links are added.
 - [Linux Foundation IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) - It is ideal for those getting started in an IT career as an administrator/engineer.
 
 ---
+
+## Miscellaneous
+
+- [Pro Writing Aid](https://prowritingaid.com/) - ProWritingAid helps you craft, polish, and elevate your writing.
 
 *Last updated: July 2026*
