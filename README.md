@@ -7,34 +7,34 @@ Maintained as a living document — updated as new links are added.
 
 ## Table of Contents
 
+**Computer Science & Development**
 - [Systems & Low-Level](#systems--low-level)
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Web & Software Development](#web--software-development)
-  - [Web Tools & Frameworks](#web-tools--frameworks)
 - [Real-Time & Media](#real-time--media)
 - [3D & Graphics](#3d--graphics)
 - [AI & Machine Learning](#ai--machine-learning)
-  - [Learning Resources](#learning-resources)
-  - [Tools & Frameworks](#tools--frameworks)
-  - [Leaderboards & Benchmarks](#leaderboards--benchmarks)
 - [Security](#security)
 - [OSINT](#osint)
 - [Red Team & Offensive Tools](#red-team--offensive-tools)
 - [Architecture & Infrastructure](#architecture--infrastructure)
 - [UI & Design](#ui--design)
+- [Open Source & Dev Practice](#open-source--dev-practice)
+- [Awesome Lists](#awesome-lists)
+- [Community & Threads](#community--threads)
+- [Education](#education)
+
+**Other Fields**
 - [Hardware & Tinkering](#hardware--tinkering)
 - [Streaming & Broadcasting](#streaming--broadcasting)
-  - [Platform Statistics & Analytics](#platform-statistics--analytics)
-- [Open Source & Dev Practice](#open-source--dev-practice)
 - [Psychology of Games](#psychology-of-games)
-- [Awesome Lists](#awesome-lists)
-- [Reading](#reading)
-- [Community & Threads](#community--threads)
-- [Certifications](#certifications)
-- [Miscellaneous](#miscellaneous)
+- [Reading & Culture](#reading--culture)
 
 ---
+---
+
+# Computer Science & Development
 
 ## Systems & Low-Level
 
@@ -71,31 +71,29 @@ Maintained as a living document — updated as new links are added.
 
 ## Web & Software Development
 
-- [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
-- [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
-- [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
+### Dev-Experience Tools
+*Tooling that shapes how you build — editors, versioning, process management, observability.*
+
+- [Zed](https://zed.dev/) — High-performance, multiplayer code editor built in Rust.
+- [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
+- [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
+- [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
 - [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
-- [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [Design Patterns PHP](https://designpatternsphp.readthedocs.io/en/latest/) - This is a collection of known design patterns and some sample code how to implement them in PHP.
-- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
+- [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
+- [ELK Stack](https://www.elastic.co/elastic-stack/) - Elasticsearch and Kibana pave the way for diverse use cases that start with logging and span as far as your imagination takes you.
 - [Backstage.io](https://backstage.io/) - An open source framework for building developer portals.
 
-### Web Tools & Frameworks
+### End-Product Frameworks & Libraries
+*What ships inside the app itself.*
 
 - [Relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [Fate](https://github.com/nkzw-tech/fate) - Fate is a modern data client for React. 
+- [Fate](https://github.com/nkzw-tech/fate) - Fate is a modern data client for React.
 - [React Bits](https://reactbits.dev/) — Collection of React patterns, techniques, and tips.
 - [Motion](https://motion.dev/) — Animation library for the web (formerly Framer Motion's standalone release).
 - [Anime.js](https://github.com/juliangarnier/anime) — Lightweight JavaScript animation library with a simple but powerful API.
 - [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
-- [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
 - [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
-- [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
-- [Zed](https://zed.dev/) — High-performance, multiplayer code editor built in Rust.
-- [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
-- [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
-- [ELK Stack](https://www.elastic.co/elastic-stack/) - Elasticsearch and Kibana pave the way for diverse use cases that start with logging and span as far as your imagination takes you.
+- [Design Patterns PHP](https://designpatternsphp.readthedocs.io/en/latest/) - This is a collection of known design patterns and some sample code how to implement them in PHP.
 
 ---
 
@@ -112,24 +110,11 @@ Maintained as a living document — updated as new links are added.
 - [SuperSplat](https://github.com/playcanvas/supersplat) — Browser-based 3D Gaussian splat editor by PlayCanvas.
 - [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) — Official implementation of the SIGGRAPH 2023 paper on real-time 3D Gaussian splatting for novel view synthesis.
 - [RodinHD](https://github.com/RodinHD/RodinHD) — High-fidelity 3D avatar generation using diffusion models. (ECCV 2024)
+- [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
 
 ---
 
 ## AI & Machine Learning
-
-### Learning Resources
-
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — The original transformer paper by Vaswani et al. (2017). Foundational reading for understanding modern LLMs.
-- [Prompt Injection Attacks](https://arxiv.org/html/2601.17548v1) - A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems.
-- [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
-- [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — Structured roadmap for becoming an AI engineer, from fundamentals to deployment.
-- [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
-- [Elements of AI](https://www.elementsofai.com/) - The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki.
-- [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
-- [Prompt Engineering](https://www.promptingguide.ai/) - Prompt engineering skills help to better understand the capabilities and limitations of large language models.
-- [Agents.md](https://agents.md/) - A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
-- [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
-- [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
 
 ### Tools & Frameworks
 
@@ -158,9 +143,6 @@ Maintained as a living document — updated as new links are added.
 
 ## Security
 
-- [GIAC GWAPT Certification](https://www.giac.org/certifications/web-application-penetration-tester-gwapt) — Web Application Penetration Tester certification by GIAC.
-- [Real-World Bug Hunting (PDF)](https://github.com/Raunaksplanet/My-CyberSecurity-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf) — Peter Yaworski's field guide to web hacking and bug bounty hunting.
-- [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) — Free, comprehensive guide to Metasploit from Offensive Security.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — Extensive list of payloads and bypass techniques for web application security testing.
 - [SecLists](https://github.com/danielmiessler/SecLists) — Collection of wordlists for security testing: usernames, passwords, URLs, fuzzing data, and more.
 - [Pentest Book](https://github.com/six2dez/pentest-book) — Comprehensive pentesting methodology and notes.
@@ -221,6 +203,90 @@ Maintained as a living document — updated as new links are added.
 
 ---
 
+## Open Source & Dev Practice
+
+- [Nodejs Best Practices](https://github.com/goldbergyoni/nodebestpractices) - The Node.js best practices list (July 2026).
+- [GitHub Open Source Guide](https://github.com/github/opensource.guide) — Best practices for launching and maintaining open source projects.
+- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
+
+---
+
+## Awesome Lists
+
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) — Curated resources for learning and practicing algorithms.
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) — Papers, books, and courses on database internals and theory.
+- [Awesome APIs](https://github.com/whizkydee/Awesome-APIs) — Collection of public APIs organized by category.
+- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) — Curated list of fuzzing resources, tools, and tutorials.
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) — Sindre Sorhus's curated list of Node.js packages and resources.
+- [Awesome React](https://github.com/enaqx/awesome-react) — Comprehensive collection of React ecosystem tools, libraries, and learning resources.
+- [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) — Skills, tools, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code).
+- [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
+- [Repos for Software Engineering Study](https://orozaskarov.medium.com/top-github-repos-for-free-software-engineering-study-resources-e8c36c696be6) - Some of the top GitHub repositories that are absolute goldmines.
+
+---
+
+## Community & Threads
+
+- [Thread by @0xchromium](https://x.com/0xchromium/status/2063321324605280569)
+- [Thread by @ai_rohitt](https://x.com/ai_rohitt/status/2065674564663996575)
+- [Thread by @0xMovez](https://x.com/0xMovez/status/2058923765526864337)
+
+---
+
+## Education
+
+*Certifications and structured learning materials, grouped by the topic they support.*
+
+### Security
+
+- [GIAC GWAPT Certification](https://www.giac.org/certifications/web-application-penetration-tester-gwapt) — Web Application Penetration Tester certification by GIAC.
+- [ISC2](https://www.isc2.org/about) - A non-profit organization which specializes in training and professional certifications for cybersecurity professionals.
+- [Digital Skills & Job Platforms](https://digital-skills-jobs.europa.eu/en/cybersecurity-skills-academy) - The Cyber Skills Academy is an EU initiative aiming at addressing the growing cybersecurity skills and talent shortage in Europe.
+- [DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) - Certification teaches you to build automated security pipelines, manage vulnerabilities at scale, and drive the cultural change needed to make security everyone's responsibility.
+- [Real-World Bug Hunting (PDF)](https://github.com/Raunaksplanet/My-CyberSecurity-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf) — Peter Yaworski's field guide to web hacking and bug bounty hunting.
+- [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) — Free, comprehensive guide to Metasploit from Offensive Security.
+
+### Cloud, DevOps & Infrastructure
+
+- [Kubernetes KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) - Proving you understand cloud native ecosystems will help you land that dream job.
+- [Github Actions](https://learn.github.com/certification/ACTIONS) - This exam is designed for DevOps engineers, software developers, and IT professionals.
+- [Terraform Associate](https://developer.hashicorp.com/certifications/infrastructure-automation) - Demonstrate your advanced Terraform production experience with the Terraform Authoring and Operations Professional certification.
+- [AWS AI Practicioner](https://aws.amazon.com/certification/certified-ai-practitioner/) - Validates in-demand knowledge of artificial intelligence (AI), machine learning (ML), and generative AI concepts and use cases.
+- [AWS Cloud Practicioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
+- [Linux Foundation IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) - It is ideal for those getting started in an IT career as an administrator/engineer.
+
+### AI & Machine Learning
+
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — The original transformer paper by Vaswani et al. (2017). Foundational reading for understanding modern LLMs.
+- [Prompt Injection Attacks](https://arxiv.org/html/2601.17548v1) - A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems.
+- [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
+- [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — Structured roadmap for becoming an AI engineer, from fundamentals to deployment.
+- [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
+- [Elements of AI](https://www.elementsofai.com/) - The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki.
+- [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
+- [Prompt Engineering](https://www.promptingguide.ai/) - Prompt engineering skills help to better understand the capabilities and limitations of large language models.
+- [Agents.md](https://agents.md/) - A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
+- [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
+- [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
+
+### General / Foundational CS
+
+- [Universidade Aberta](https://portal.uab.pt/?lang=en) - Established in 1988, Universidade Aberta (UAb) is the single public distance education university in Portugal.
+- [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, etc...
+- [Software Engineering](https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf) - A broad perspective on software processes, requirements, and design.
+- [Computer Networking A Top-Down Approach](https://qige.io/network/Kurose-7.pdf) - Introduces this complex subject in a top-down manner, proceeding from the application layer toward the physical layer and familiarizing you with important concepts early in your study.
+- [Cracking the Code Interview](https://dn760101.eu.archive.org/0/items/4-programming-interviews-exposed-4th-edition/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) - Gives you the interview preparation you need to get the top software developer jobs.
+- [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
+- [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
+
+---
+---
+
+# Other Fields
+
 ## Hardware & Tinkering
 
 - [How to Set Up a Raspberry Pi Email Server](https://www.sunfounder.com/blogs/news/how-to-set-up-a-raspberry-pi-email-server-a-complete-step-by-step-guide) — SunFounder step-by-step guide for self-hosting an email server on a Pi.
@@ -243,14 +309,6 @@ Maintained as a living document — updated as new links are added.
 
 ---
 
-## Open Source & Dev Practice
-
-- [Nodejs Best Practices](https://github.com/goldbergyoni/nodebestpractices) - The Node.js best practices list (July 2026).
-- [GitHub Open Source Guide](https://github.com/github/opensource.guide) — Best practices for launching and maintaining open source projects.
-- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
-
----
-
 ## Psychology of Games
 
 - [Psychology of Games](https://www.psychologyofgames.com/about/) — Applied psychology concepts through the lens of video games.
@@ -259,63 +317,16 @@ Maintained as a living document — updated as new links are added.
 
 ---
 
-## Awesome Lists
+## Reading & Culture
 
-- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) — Curated resources for learning and practicing algorithms.
-- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) — Papers, books, and courses on database internals and theory.
-- [Awesome APIs](https://github.com/whizkydee/Awesome-APIs) — Collection of public APIs organized by category.
-- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) — Curated list of fuzzing resources, tools, and tutorials.
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) — Curated list of OSINT tools, resources, and techniques.
-- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) — Sindre Sorhus's curated list of Node.js packages and resources.
-- [Awesome React](https://github.com/enaqx/awesome-react) — Comprehensive collection of React ecosystem tools, libraries, and learning resources.
-- [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) — Skills, tools, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code).
-- [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
-
----
-
-## Reading
+*Non-technical reading, and writing/music-adjacent tools — kept as one topic since it's not meant to expand.*
 
 - [The Demon-Haunted World — Carl Sagan](https://archive.org/details/B-001-001-709/page/n11/mode/2up) — Sagan's case for scientific thinking and skepticism. Free on the Internet Archive.
 - [Tolkien Gateway](https://tolkiengateway.net/wiki/The_Silmarillion#Contents) - The Tolkien Gateway is a fan wiki that documents J. R. R. Tolkien's fantasy world of Middle-earth.
 - [Psychological Types — C.G. Jung](https://archive.org/details/dli.ernet.7919/page/n11/mode/2up) — Jung's foundational work on psychological typology and individuation. Free on the Internet Archive.
 - [Psychology and Alchemy — C.G. Jung](https://maypoleofwisdom.com/wp-content/uploads/2021/02/collected-works-of-c.g.-jung-volume-12-psychology-and-alchemy-pdfdrive-.pdf) — Volume 12 of Jung's Collected Works. Explores alchemical symbolism as a map of the unconscious.
 - [Beyond Music Theory — Cadences and Negative Harmony](https://www.beyondmusictheory.org/cadences-and-negative-harmony/) — Theory deep dive on cadences and the concept of negative harmony.
-- [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-- [Thinking in Systems - A Primer](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf) - Focused on understanding how interconnected parts within a system generate its overall behavior, rather than analyzing individual components in isolation.
-- [Cracking the Code Interview](https://dn760101.eu.archive.org/0/items/4-programming-interviews-exposed-4th-edition/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) - Gives you the interview preparation you need to get the top software developer jobs.
 - [Psychology of Intelligence Analysis](https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf) - Interesting application of cognitive psychology and decision analysis in intelligence analysis.
-- [Software Engineering](https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf) - A broad perspective on software processes, requirements, and design.
-- [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, etc...
-- [Computer Networking A Top-Down Approach](https://qige.io/network/Kurose-7.pdf) - Introduces this complex subject in a top-down manner, proceeding from the application layer toward the physical layer and familiarizing you with important concepts early in your study. 
-
----
-
-## Community & Threads  
-
-- [Thread by @0xchromium](https://x.com/0xchromium/status/2063321324605280569)
-- [Thread by @ai_rohitt](https://x.com/ai_rohitt/status/2065674564663996575)
-- [Thread by @0xMovez](https://x.com/0xMovez/status/2058923765526864337)
-- [Repos for Software Engineering Study](https://orozaskarov.medium.com/top-github-repos-for-free-software-engineering-study-resources-e8c36c696be6) - Some of the top GitHub repositories that are absolute goldmines.
-
----
-
-## Certifications
-
-- [ISC2](https://www.isc2.org/about) - A non-profit organization which specializes in training and professional certifications for cybersecurity professionals.
-- [Universidade Aberta](https://portal.uab.pt/?lang=en) - Established in 1988, Universidade Aberta (UAb) is the single public distance education university in Portugal.
-- [Digital Skills & Job Platforms](https://digital-skills-jobs.europa.eu/en/cybersecurity-skills-academy) - The Cyber Skills Academy is an EU initiative aiming at addressing the growing cybersecurity skills and talent shortage in Europe. 
-- [Kubernetes KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) - Proving you understand cloud native ecosystems will help you land that dream job.
-- [Github Actions](https://learn.github.com/certification/ACTIONS) - This exam is designed for DevOps engineers, software developers, and IT professionals.
-- [Terraform Associate](https://developer.hashicorp.com/certifications/infrastructure-automation) - Demonstrate your advanced Terraform production experience with the Terraform Authoring and Operations Professional certification.
-- [DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) - Certification teaches you to build automated security pipelines, manage vulnerabilities at scale, and drive the cultural change needed to make security everyone’s responsibility.
-- [AWS AI Practicioner](https://aws.amazon.com/certification/certified-ai-practitioner/) - Validates in-demand knowledge of artificial intelligence (AI), machine learning (ML), and generative AI concepts and use cases.
-- [AWS Cloud Practicioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
-- [Linux Foundation IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) - It is ideal for those getting started in an IT career as an administrator/engineer.
-
----
-
-## Miscellaneous
-
 - [Pro Writing Aid](https://prowritingaid.com/) - ProWritingAid helps you craft, polish, and elevate your writing.
 
 *Last updated: July 2026*
