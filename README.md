@@ -301,7 +301,6 @@ Maintained as a living document — updated as new links are added.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
 - [RFC 9110 — HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html) — The current IETF standard defining HTTP semantics, shared across HTTP/1.1, HTTP/2, and HTTP/3.
-- [Information Theory — Britannica](https://www.britannica.com/science/information-theory/Physiology) — Overview of information theory concepts, including their application to physiological/neural signaling.
 - [Encrypted DNS in Browsers — Cloudflare](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) — Reference on DNS-over-HTTPS and how browsers implement encrypted DNS.
 
 ---
@@ -349,6 +348,7 @@ Maintained as a living document — updated as new links are added.
 - [Psychology and Alchemy — C.G. Jung](https://maypoleofwisdom.com/wp-content/uploads/2021/02/collected-works-of-c.g.-jung-volume-12-psychology-and-alchemy-pdfdrive-.pdf) — Volume 12 of Jung's Collected Works. Explores alchemical symbolism as a map of the unconscious.
 - [Beyond Music Theory — Cadences and Negative Harmony](https://www.beyondmusictheory.org/cadences-and-negative-harmony/) — Theory deep dive on cadences and the concept of negative harmony.
 - [Psychology of Intelligence Analysis](https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf) - Interesting application of cognitive psychology and decision analysis in intelligence analysis.
+- [Information Theory — Britannica](https://www.britannica.com/science/information-theory/Physiology) — Overview of information theory concepts, including their application to physiological/neural signaling.
 - [Pro Writing Aid](https://prowritingaid.com/) - ProWritingAid helps you craft, polish, and elevate your writing.
 
 *Last updated: July 2026*
