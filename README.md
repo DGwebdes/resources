@@ -17,7 +17,6 @@ Maintained as a living document — updated as new links are added.
 - [AI & Machine Learning](#ai--machine-learning)
 - [Security](#security)
 - [OSINT](#osint)
-- [Red Team & Offensive Tools](#red-team--offensive-tools)
 - [Architecture & Infrastructure](#architecture--infrastructure)
 - [UI & Design](#ui--design)
 - [Open Source & Dev Practice](#open-source--dev-practice)
@@ -78,6 +77,7 @@ Maintained as a living document — updated as new links are added.
 - [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
 - [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
 - [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
+- [Socket Optimize](https://socket.dev/blog/introducing-socket-optimize) — Supply-chain security tool that flags and swaps out risky or malicious npm packages.
 - [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
 - [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
 - [ELK Stack](https://www.elastic.co/elastic-stack/) - Elasticsearch and Kibana pave the way for diverse use cases that start with logging and span as far as your imagination takes you.
@@ -143,6 +143,23 @@ Maintained as a living document — updated as new links are added.
 
 ## Security
 
+### Blue Team & Defensive
+
+- [OSV Scanner](https://github.com/google/osv-scanner) — Google's open source vulnerability scanner for project dependencies.
+- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html) - A concise collection of high value information on specific application security topics.
+- [CyberDefenders](https://cyberdefenders.org/) — Blue team training platform with real-world DFIR and SOC challenges.
+- [Wazuh](https://wazuh.com/) — Open source SIEM and XDR platform for threat detection, monitoring, and response.
+- [Security Onion](https://securityonionsolutions.com/) — Open source Linux distro for enterprise security monitoring, threat hunting, and log management.
+- [Splunk BOTS (Boss of the SOC)](https://bots.splunk.com/login?redirect=/) — Gamified blue team training environment and dataset for SOC skill-building.
+- [Splunk Attack Range v4](https://www.splunk.com/en_us/blog/security/splunk-attack-range-v4-threat-detection-emulation.html) — Framework for emulating attacks and building/testing detections.
+
+### Write-ups & Case Studies
+
+- [Tesla XSS Bug Bounty Write-up](https://www.securityweek.com/tesla-awards-researcher-10000-after-finding-xss-vulnerability/) — SecurityWeek coverage of a researcher-found XSS vulnerability in Tesla's infrastructure.
+- [Cloudflare July 2019 Outage — Regex Backtracking](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/#appendix-about-regular-expression-backtracking) — Cloudflare's post-mortem on a global outage caused by catastrophic regex backtracking (ReDoS).
+
+### Red Team & Offensive
+
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — Extensive list of payloads and bypass techniques for web application security testing.
 - [SecLists](https://github.com/danielmiessler/SecLists) — Collection of wordlists for security testing: usernames, passwords, URLs, fuzzing data, and more.
 - [Pentest Book](https://github.com/six2dez/pentest-book) — Comprehensive pentesting methodology and notes.
@@ -155,14 +172,18 @@ Maintained as a living document — updated as new links are added.
 - [BloodHound Legacy](https://github.com/SpecterOps/BloodHound-Legacy) — Active Directory attack path analysis tool by SpecterOps.
 - [Seatbelt](https://github.com/GhostPack/Seatbelt) — C# situational awareness tool for Windows post-exploitation enumeration.
 - [JAWS](https://github.com/411Hall/JAWS) — PowerShell-based Windows local privilege escalation enumeration script.
-- [Shodan Cheat Sheet](https://github.com/DAEMON-404/Shodan_Cheet-Sheet) — Quick reference for Shodan search operators and filters.
 - [Reconmap](https://github.com/reconmap/reconmap) — Collaborative penetration testing and vulnerability management platform.
 - [OmniProx](https://github.com/ZephrFish/OmniProx) — IP rotation tool across GCP, Azure, Alibaba, and Cloudflare. Think FireProx but multi-provider.
-- [OSV Scanner](https://github.com/google/osv-scanner) — Google's open source vulnerability scanner for project dependencies.
 - [Impacket](https://salsa.debian.org/python-team/packages/impacket) — Python library for working with network protocols; widely used in AD exploitation.
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) — AI-powered Raspberry Pi tool for Wi-Fi handshake capture via passive monitoring.
 - [Bjorn](https://github.com/infinition/Bjorn) — Network scanning and offensive security tool for Raspberry Pi with e-Paper display support.
-- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html) - A concise collection of high value information on specific application security topics.
+- [MSOLSpray](https://github.com/dafthack/MSOLSpray) — Password spraying tool targeting Microsoft Online (Azure AD / O365).
+- [EntraSpray](https://github.com/dunderhay/entraspray) — Password spraying tool targeting Microsoft Entra ID.
+- [TeamFiltration](https://github.com/Flangvik/TeamFiltration) — Cross-platform framework for enumerating, spraying, and exfiltrating from Microsoft Teams and O365.
+
+### General Security (AppSec / Recon / Scanning)
+
+- [Shodan Cheat Sheet](https://github.com/DAEMON-404/Shodan_Cheet-Sheet) — Quick reference for Shodan search operators and filters.
 - [BuiltWith](https://builtwith.com/) - Find out what websites are Built With.
 - [WhatWeb](https://whatweb.net/) - Scan your domain or IP address to identify content management systems, JavaScript libraries, web servers, and more.
 - [Wappalyzer](https://www.wappalyzer.com/) - Find accounts by the technologies they use.
@@ -177,14 +198,6 @@ Maintained as a living document — updated as new links are added.
 - [SpiderFoot](https://spiderrfoot.com/) — Automated OSINT and attack surface monitoring platform.
 - [Maltego](https://www.maltego.com/) — Link-analysis and data-gathering platform for OSINT investigations and threat intelligence.
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) — OSINT tool for tracking and gathering intelligence on targets.
-
----
-
-## Red Team & Offensive Tools
-
-- [MSOLSpray](https://github.com/dafthack/MSOLSpray) — Password spraying tool targeting Microsoft Online (Azure AD / O365).
-- [EntraSpray](https://github.com/dunderhay/entraspray) — Password spraying tool targeting Microsoft Entra ID.
-- [TeamFiltration](https://github.com/Flangvik/TeamFiltration) — Cross-platform framework for enumerating, spraying, and exfiltrating from Microsoft Teams and O365.
 
 ---
 
@@ -237,14 +250,20 @@ Maintained as a living document — updated as new links are added.
 
 *Certifications and structured learning materials, grouped by the topic they support.*
 
-### Security
+### Security — Blue Team & Defensive
+
+- [DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) - Certification teaches you to build automated security pipelines, manage vulnerabilities at scale, and drive the cultural change needed to make security everyone's responsibility.
+
+### Security — Red Team & Offensive
 
 - [GIAC GWAPT Certification](https://www.giac.org/certifications/web-application-penetration-tester-gwapt) — Web Application Penetration Tester certification by GIAC.
-- [ISC2](https://www.isc2.org/about) - A non-profit organization which specializes in training and professional certifications for cybersecurity professionals.
-- [Digital Skills & Job Platforms](https://digital-skills-jobs.europa.eu/en/cybersecurity-skills-academy) - The Cyber Skills Academy is an EU initiative aiming at addressing the growing cybersecurity skills and talent shortage in Europe.
-- [DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) - Certification teaches you to build automated security pipelines, manage vulnerabilities at scale, and drive the cultural change needed to make security everyone's responsibility.
 - [Real-World Bug Hunting (PDF)](https://github.com/Raunaksplanet/My-CyberSecurity-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf) — Peter Yaworski's field guide to web hacking and bug bounty hunting.
 - [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) — Free, comprehensive guide to Metasploit from Offensive Security.
+
+### Security — General
+
+- [ISC2](https://www.isc2.org/about) - A non-profit organization which specializes in training and professional certifications for cybersecurity professionals.
+- [Digital Skills & Job Platforms](https://digital-skills-jobs.europa.eu/en/cybersecurity-skills-academy) - The Cyber Skills Academy is an EU initiative aiming at addressing the growing cybersecurity skills and talent shortage in Europe.
 
 ### Cloud, DevOps & Infrastructure
 
@@ -281,6 +300,9 @@ Maintained as a living document — updated as new links are added.
 - [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
+- [RFC 9110 — HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html) — The current IETF standard defining HTTP semantics, shared across HTTP/1.1, HTTP/2, and HTTP/3.
+- [Information Theory — Britannica](https://www.britannica.com/science/information-theory/Physiology) — Overview of information theory concepts, including their application to physiological/neural signaling.
+- [Encrypted DNS in Browsers — Cloudflare](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) — Reference on DNS-over-HTTPS and how browsers implement encrypted DNS.
 
 ---
 ---
