@@ -8,7 +8,8 @@ Maintained as a living document — updated as new links are added.
 ## Table of Contents
 
 **Computer Science & Development**
-- [Systems & Low-Level](#systems--low-level)
+- [Systems Programming & OS Internals](#systems-programming--os-internals)
+- [Sysadmin & Networking](#sysadmin--networking)
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Web & Software Development](#web--software-development)
@@ -17,7 +18,6 @@ Maintained as a living document — updated as new links are added.
 - [AI & Machine Learning](#ai--machine-learning)
 - [Security](#security)
 - [OSINT](#osint)
-- [Architecture & Infrastructure](#architecture--infrastructure)
 - [UI & Design](#ui--design)
 - [Open Source & Dev Practice](#open-source--dev-practice)
 - [Awesome Lists](#awesome-lists)
@@ -35,19 +35,38 @@ Maintained as a living document — updated as new links are added.
 
 # Computer Science & Development
 
-## Systems & Low-Level
+## Systems Programming & OS Internals
 
 - [Beej's Guides](https://beej.us/guide/) — Practical, well-written guides covering network programming, C, and more. A classic.
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) — Step-by-step tutorial by Stephen Brennan on building a Unix shell from scratch in C.
 - [Unicorn Engine](https://github.com/unicorn-engine/unicorn) — Lightweight, multi-architecture CPU emulator framework.
+- [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
+
+---
+
+## Sysadmin & Networking
+
+- [pfSense](https://www.pfsense.org/) — Open source firewall/router platform for network administration.
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) — Open source VMM for running modern cloud workloads on KVM.
 - [1xBTS](https://github.com/chrismoos/1xbts) — Open source CDMA2000 cellular network implementation.
+- [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - Technical resources and utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.
+- [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
+
+### Network Monitoring & Privacy Tools
+
+- [Safing](https://safing.io/) — Open source network monitoring and privacy tool (Portmaster) for controlling app-level network access.
+- [NetBalancer](https://netbalancer.com/) — Windows tool for monitoring and controlling network traffic per-application.
+- [NetLimiter](https://www.netlimiter.com/) — Bandwidth monitoring and control tool for Windows.
+- [GlassWire](https://www.glasswire.com/) — Network monitoring tool with built-in firewall and traffic visualization.
+
+### Architecture & Infrastructure
+
+- [The Map of System Topologies](https://itnext.io/the-map-of-system-topologies-e2d3d0b89618) — Visual breakdown of system design patterns and topologies.
+- [Deployment Strategies: Types, Trade-offs, and How to Choose](https://circleci.com/blog/deployment-strategies-types-trade-offs-and-how-to-choose/) — CircleCI breakdown of blue/green, canary, rolling, and other deployment models.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
 - [System Design Pattern](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, etc.
-- [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
-- [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - Technical resources and utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.
-- [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
+- [The History of Cloud Computing, Explained](https://www.techtarget.com/whatis/feature/The-history-of-cloud-computing-explained) — TechTarget overview of how cloud computing evolved.
 
 ---
 
@@ -94,6 +113,10 @@ Maintained as a living document — updated as new links are added.
 - [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 - [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
 - [Design Patterns PHP](https://designpatternsphp.readthedocs.io/en/latest/) - This is a collection of known design patterns and some sample code how to implement them in PHP.
+
+### Databases
+
+- [SQLite Tutorial](https://www.sqlitetutorial.net/) — Practical tutorial series covering SQLite from basics to advanced usage.
 
 ---
 
@@ -153,11 +176,6 @@ Maintained as a living document — updated as new links are added.
 - [Splunk BOTS (Boss of the SOC)](https://bots.splunk.com/login?redirect=/) — Gamified blue team training environment and dataset for SOC skill-building.
 - [Splunk Attack Range v4](https://www.splunk.com/en_us/blog/security/splunk-attack-range-v4-threat-detection-emulation.html) — Framework for emulating attacks and building/testing detections.
 
-### Write-ups & Case Studies
-
-- [Tesla XSS Bug Bounty Write-up](https://www.securityweek.com/tesla-awards-researcher-10000-after-finding-xss-vulnerability/) — SecurityWeek coverage of a researcher-found XSS vulnerability in Tesla's infrastructure.
-- [Cloudflare July 2019 Outage — Regex Backtracking](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/#appendix-about-regular-expression-backtracking) — Cloudflare's post-mortem on a global outage caused by catastrophic regex backtracking (ReDoS).
-
 ### Red Team & Offensive
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — Extensive list of payloads and bypass techniques for web application security testing.
@@ -187,6 +205,13 @@ Maintained as a living document — updated as new links are added.
 - [BuiltWith](https://builtwith.com/) - Find out what websites are Built With.
 - [WhatWeb](https://whatweb.net/) - Scan your domain or IP address to identify content management systems, JavaScript libraries, web servers, and more.
 - [Wappalyzer](https://www.wappalyzer.com/) - Find accounts by the technologies they use.
+- [CVSS User Guide](https://www.first.org/cvss/user-guide) — FIRST's official guide to the Common Vulnerability Scoring System for rating vulnerability severity.
+- [KeePassXC](https://keepassxc.org/) — Open source, cross-platform password manager.
+
+### Write-ups & Case Studies
+
+- [Tesla XSS Bug Bounty Write-up](https://www.securityweek.com/tesla-awards-researcher-10000-after-finding-xss-vulnerability/) — SecurityWeek coverage of a researcher-found XSS vulnerability in Tesla's infrastructure.
+- [Cloudflare July 2019 Outage — Regex Backtracking](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/#appendix-about-regular-expression-backtracking) — Cloudflare's post-mortem on a global outage caused by catastrophic regex backtracking (ReDoS).
 
 ---
 
@@ -198,13 +223,6 @@ Maintained as a living document — updated as new links are added.
 - [SpiderFoot](https://spiderrfoot.com/) — Automated OSINT and attack surface monitoring platform.
 - [Maltego](https://www.maltego.com/) — Link-analysis and data-gathering platform for OSINT investigations and threat intelligence.
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) — OSINT tool for tracking and gathering intelligence on targets.
-
----
-
-## Architecture & Infrastructure
-
-- [The Map of System Topologies](https://itnext.io/the-map-of-system-topologies-e2d3d0b89618) — Visual breakdown of system design patterns and topologies.
-- [Deployment Strategies: Types, Trade-offs, and How to Choose](https://circleci.com/blog/deployment-strategies-types-trade-offs-and-how-to-choose/) — CircleCI breakdown of blue/green, canary, rolling, and other deployment models.
 
 ---
 
@@ -287,6 +305,7 @@ Maintained as a living document — updated as new links are added.
 - [Agents.md](https://agents.md/) - A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
 - [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
 - [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
+- [Robots, Agents, and World Models — VT Engineering](https://eng.vt.edu/magazine/stories/fall-2023/ai.html) — Virginia Tech feature on AI and autonomous systems research. `[article to read]`
 
 ### General / Foundational CS
 
@@ -351,4 +370,4 @@ Maintained as a living document — updated as new links are added.
 - [Information Theory — Britannica](https://www.britannica.com/science/information-theory/Physiology) — Overview of information theory concepts, including their application to physiological/neural signaling.
 - [Pro Writing Aid](https://prowritingaid.com/) - ProWritingAid helps you craft, polish, and elevate your writing.
 
-*Last updated: July 2026*
+*Last updated: August 2026*
