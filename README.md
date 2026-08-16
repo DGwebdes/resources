@@ -42,6 +42,8 @@ Maintained as a living document — updated as new links are added.
 - [Unicorn Engine](https://github.com/unicorn-engine/unicorn) — Lightweight, multi-architecture CPU emulator framework.
 - [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
+- [LearnCpp.com](https://www.learncpp.com/) — Free, comprehensive C++ tutorial series from basics to advanced topics.
+- [What Are Deadlocks? How to Prevent Them](https://www.mathworks.com/products/polyspace/static-analysis-notes/what-deadlocks-how-prevent-during-software-development.html) — MathWorks explainer on deadlocks and prevention strategies in concurrent software. `[article to read]`
 
 ---
 
@@ -77,6 +79,7 @@ Maintained as a living document — updated as new links are added.
 - [Bash Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/) - This is a practical guide which, while not always being too serious, tries to give real-life instead of theoretical examples.
 - [Linux Foundation Training](https://training.linuxfoundation.org/) — Official training and certification programs from the Linux Foundation.
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) — Comprehensive quick-reference for Bash scripting and command line usage.
+- [systemd vs SysVinit vs OpenRC](https://cubepath.com/docs/comparison-guide/systemd-vs-sysvinit-vs-openrc) — Comparison guide covering Linux init system options and their trade-offs. `[article to read]`
 
 ---
 
@@ -134,6 +137,9 @@ Maintained as a living document — updated as new links are added.
 - [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) — Official implementation of the SIGGRAPH 2023 paper on real-time 3D Gaussian splatting for novel view synthesis.
 - [RodinHD](https://github.com/RodinHD/RodinHD) — High-fidelity 3D avatar generation using diffusion models. (ECCV 2024)
 - [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) — Read, edit, and write 3D models in glTF/GLB format via Node.js or CLI.
+- [Vulkan Tutorial](https://vulkan-tutorial.com/) — Step-by-step guide to the Vulkan graphics and compute API.
+- [Vulkan.org — Learn](https://www.vulkan.org/learn) — Official Vulkan learning resources from the Khronos Group.
+- [vkguide.dev](https://vkguide.dev/) — Practical guide to building a Vulkan renderer from scratch.
 
 ---
 
@@ -369,5 +375,7 @@ Maintained as a living document — updated as new links are added.
 - [Psychology of Intelligence Analysis](https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf) - Interesting application of cognitive psychology and decision analysis in intelligence analysis.
 - [Information Theory — Britannica](https://www.britannica.com/science/information-theory/Physiology) — Overview of information theory concepts, including their application to physiological/neural signaling.
 - [Pro Writing Aid](https://prowritingaid.com/) - ProWritingAid helps you craft, polish, and elevate your writing.
+- [StudioBinder](https://www.studiobinder.com/) — Production management platform with screenwriting, shot list, and storyboard tools for filmmaking.
+- [Scriptslug](https://www.scriptslug.com/) — Free repository of downloadable screenplays for film and TV.
 
 *Last updated: August 2026*
