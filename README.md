@@ -43,6 +43,7 @@ Maintained as a living document — updated as new links are added.
 - [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
 - [LearnCpp.com](https://www.learncpp.com/) — Free, comprehensive C++ tutorial series from basics to advanced topics.
+- [CC4E — Computing Fundamentals](https://www.cc4e.com/) — Paul Krzyzanowski's course notes covering C programming, Unix/Linux systems, and networking fundamentals.
 - [What Are Deadlocks? How to Prevent Them](https://www.mathworks.com/products/polyspace/static-analysis-notes/what-deadlocks-how-prevent-during-software-development.html) — MathWorks explainer on deadlocks and prevention strategies in concurrent software. `[article to read]`
 
 ---
@@ -115,6 +116,7 @@ Maintained as a living document — updated as new links are added.
 - [Anime.js](https://github.com/juliangarnier/anime) — Lightweight JavaScript animation library with a simple but powerful API.
 - [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 - [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
+- [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
 - [Design Patterns PHP](https://designpatternsphp.readthedocs.io/en/latest/) - This is a collection of known design patterns and some sample code how to implement them in PHP.
 
 ### Databases
@@ -162,11 +164,19 @@ Maintained as a living document — updated as new links are added.
 - [LingBot World](https://github.com/Robbyant/lingbot-world) — Open-source world model research.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam) — Real-time face swap and deepfake video tool.
 - [Niantic Spatial](https://www.nianticspatial.com/en) - Robots, agents, and autonomous systems need world models grounded in physics and geometry, not imagination.
+- [DeepLearning.AI Courses](https://www.deeplearning.ai/courses) — Structured AI and machine learning courses from Andrew Ng's DeepLearning.AI.
+- [AI Hero](https://www.aihero.dev/) — AI engineering learning platform covering prompting, agents, and applied LLM development.
+- [Model Context Protocol — Getting Started](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro) — Official documentation for MCP, the open protocol for connecting AI models to tools and data sources.
 
 ### Leaderboards & Benchmarks
 
 - [Artificial Analysis](https://artificialanalysis.ai/leaderboards/models) — Independent benchmarks comparing LLM quality, speed, and cost across providers.
 - [LLM Stats](https://llm-stats.com/) — Live stats and rankings across major language models.
+
+### Articles
+
+- [MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://arxiv.org/html/2608.04205v1) — Paper introducing a population-scale simulated-user evaluation infrastructure for testing AI systems with persona-driven agents. `[article to read]`
+- [AI Agent Memory Design Guide](https://hidekazu-konishi.com/entry/ai_agent_memory_design_guide.html) — Overview of memory architecture approaches for AI agents. `[article to read]`
 
 ---
 
@@ -213,6 +223,8 @@ Maintained as a living document — updated as new links are added.
 - [Wappalyzer](https://www.wappalyzer.com/) - Find accounts by the technologies they use.
 - [CVSS User Guide](https://www.first.org/cvss/user-guide) — FIRST's official guide to the Common Vulnerability Scoring System for rating vulnerability severity.
 - [KeePassXC](https://keepassxc.org/) — Open source, cross-platform password manager.
+- [Tails](https://tails.net/index.en.html) — Portable, amnesic live operating system focused on privacy and anonymity.
+- [GrapheneOS](https://grapheneos.org/) — Privacy and security-focused mobile OS built on the Android Open Source Project.
 
 ### Write-ups & Case Studies
 
@@ -324,7 +336,6 @@ Maintained as a living document — updated as new links are added.
 - [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
 - [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
 - [RFC 9110 — HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html) — The current IETF standard defining HTTP semantics, shared across HTTP/1.1, HTTP/2, and HTTP/3.
 - [Encrypted DNS in Browsers — Cloudflare](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) — Reference on DNS-over-HTTPS and how browsers implement encrypted DNS.
 
@@ -377,5 +388,9 @@ Maintained as a living document — updated as new links are added.
 - [Pro Writing Aid](https://prowritingaid.com/) - ProWritingAid helps you craft, polish, and elevate your writing.
 - [StudioBinder](https://www.studiobinder.com/) — Production management platform with screenwriting, shot list, and storyboard tools for filmmaking.
 - [Scriptslug](https://www.scriptslug.com/) — Free repository of downloadable screenplays for film and TV.
+- [Fretjam](https://www.fretjam.com/) — Guitar lessons and music theory explained for guitarists.
+- [Icelandic Online](https://icelandiconline.com/) — Free structured Icelandic language courses.
+- [Eros and Logos — Stuart Kauffman](https://www.tandfonline.com/doi/full/10.1080/0969725X.2020.1754011) — Essay in *Angelaki* arguing that the emergence of life introduces genuine creativity (Eros) beyond the deterministic laws (Logos) of physics. `[article to read]`
+- [In Vivo Base Editing of PCSK9 with VERVE-102 for Hypercholesterolemia](https://pubmed.ncbi.nlm.nih.gov/42187087/) — NEJM phase I study on a one-time gene-editing therapy for lowering LDL cholesterol. `[article to read]`
 
 *Last updated: August 2026*
