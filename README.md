@@ -149,6 +149,7 @@ Maintained as a living document — updated as new links are added.
 
 ### Tools & Frameworks
 
+- [Model Context Protocol — Getting Started](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro) — Official documentation for MCP, the open protocol for connecting AI models to tools and data sources.
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for connecting LLMs to external data sources and building RAG pipelines.
 - [LangChain](https://www.langchain.com/) — Framework for building LLM-powered applications with chains, agents, and memory.
 - [Weights & Biases](https://wandb.ai/site) — ML experiment tracking, model monitoring, and dataset versioning platform.
@@ -164,9 +165,7 @@ Maintained as a living document — updated as new links are added.
 - [LingBot World](https://github.com/Robbyant/lingbot-world) — Open-source world model research.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam) — Real-time face swap and deepfake video tool.
 - [Niantic Spatial](https://www.nianticspatial.com/en) - Robots, agents, and autonomous systems need world models grounded in physics and geometry, not imagination.
-- [DeepLearning.AI Courses](https://www.deeplearning.ai/courses) — Structured AI and machine learning courses from Andrew Ng's DeepLearning.AI.
 - [AI Hero](https://www.aihero.dev/) — AI engineering learning platform covering prompting, agents, and applied LLM development.
-- [Model Context Protocol — Getting Started](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro) — Official documentation for MCP, the open protocol for connecting AI models to tools and data sources.
 
 ### Leaderboards & Benchmarks
 
@@ -175,6 +174,8 @@ Maintained as a living document — updated as new links are added.
 
 ### Articles
 
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — The original transformer paper by Vaswani et al. (2017). Foundational reading for understanding modern LLMs.
+- [Prompt Injection Attacks](https://arxiv.org/html/2601.17548v1) - A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems.
 - [MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://arxiv.org/html/2608.04205v1) — Paper introducing a population-scale simulated-user evaluation infrastructure for testing AI systems with persona-driven agents. `[article to read]`
 - [AI Agent Memory Design Guide](https://hidekazu-konishi.com/entry/ai_agent_memory_design_guide.html) — Overview of memory architecture approaches for AI agents. `[article to read]`
 
@@ -312,8 +313,7 @@ Maintained as a living document — updated as new links are added.
 
 ### AI & Machine Learning
 
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — The original transformer paper by Vaswani et al. (2017). Foundational reading for understanding modern LLMs.
-- [Prompt Injection Attacks](https://arxiv.org/html/2601.17548v1) - A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems.
+- [DeepLearning.AI Courses](https://www.deeplearning.ai/courses) — Structured AI and machine learning courses from Andrew Ng's DeepLearning.AI.
 - [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — Structured roadmap for becoming an AI engineer, from fundamentals to deployment.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
