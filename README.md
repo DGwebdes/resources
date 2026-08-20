@@ -121,6 +121,7 @@ Maintained as a living document — updated as new links are added.
 
 ### Databases
 
+- [SQLBolt](https://sqlbolt.com/) - A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 - [SQLite Tutorial](https://www.sqlitetutorial.net/) — Practical tutorial series covering SQLite from basics to advanced usage.
 
 ---
@@ -165,7 +166,6 @@ Maintained as a living document — updated as new links are added.
 - [LingBot World](https://github.com/Robbyant/lingbot-world) — Open-source world model research.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam) — Real-time face swap and deepfake video tool.
 - [Niantic Spatial](https://www.nianticspatial.com/en) - Robots, agents, and autonomous systems need world models grounded in physics and geometry, not imagination.
-- [AI Hero](https://www.aihero.dev/) — AI engineering learning platform covering prompting, agents, and applied LLM development.
 
 ### Leaderboards & Benchmarks
 
@@ -178,6 +178,7 @@ Maintained as a living document — updated as new links are added.
 - [Prompt Injection Attacks](https://arxiv.org/html/2601.17548v1) - A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems.
 - [MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://arxiv.org/html/2608.04205v1) — Paper introducing a population-scale simulated-user evaluation infrastructure for testing AI systems with persona-driven agents. `[article to read]`
 - [AI Agent Memory Design Guide](https://hidekazu-konishi.com/entry/ai_agent_memory_design_guide.html) — Overview of memory architecture approaches for AI agents. `[article to read]`
+- [Robots, Agents, and World Models — VT Engineering](https://eng.vt.edu/magazine/stories/fall-2023/ai.html) — Virginia Tech feature on AI and autonomous systems research. `[article to read]`
 
 ---
 
@@ -237,7 +238,6 @@ Maintained as a living document — updated as new links are added.
 ## OSINT
 
 - [OSINT Framework](https://github.com/lockfale/OSINT-Framework) — Visual map of OSINT tools and techniques organized by category.
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) — Curated list of OSINT tools, resources, and techniques.
 - [TCM OSINT Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources) — Resource list from TCM Security's OSINT course.
 - [SpiderFoot](https://spiderrfoot.com/) — Automated OSINT and attack surface monitoring platform.
 - [Maltego](https://www.maltego.com/) — Link-analysis and data-gathering platform for OSINT investigations and threat intelligence.
@@ -268,6 +268,7 @@ Maintained as a living document — updated as new links are added.
 - [Awesome APIs](https://github.com/whizkydee/Awesome-APIs) — Collection of public APIs organized by category.
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) — Curated list of fuzzing resources, tools, and tutorials.
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) — Sindre Sorhus's curated list of Node.js packages and resources.
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) — Curated list of OSINT tools, resources, and techniques.
 - [Awesome React](https://github.com/enaqx/awesome-react) — Comprehensive collection of React ecosystem tools, libraries, and learning resources.
 - [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) — Skills, tools, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code).
 - [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
@@ -315,7 +316,6 @@ Maintained as a living document — updated as new links are added.
 
 - [DeepLearning.AI Courses](https://www.deeplearning.ai/courses) — Structured AI and machine learning courses from Andrew Ng's DeepLearning.AI.
 - [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
-- [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) — Structured roadmap for becoming an AI engineer, from fundamentals to deployment.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
 - [Elements of AI](https://www.elementsofai.com/) - The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki.
 - [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
@@ -323,7 +323,7 @@ Maintained as a living document — updated as new links are added.
 - [Agents.md](https://agents.md/) - A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
 - [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
 - [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
-- [Robots, Agents, and World Models — VT Engineering](https://eng.vt.edu/magazine/stories/fall-2023/ai.html) — Virginia Tech feature on AI and autonomous systems research. `[article to read]`
+- [AI Hero](https://www.aihero.dev/) — AI engineering learning platform covering prompting, agents, and applied LLM development.
 
 ### General / Foundational CS
 
