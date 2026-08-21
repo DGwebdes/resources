@@ -43,7 +43,7 @@ Maintained as a living document — updated as new links are added.
 - [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
 - [LearnCpp.com](https://www.learncpp.com/) — Free, comprehensive C++ tutorial series from basics to advanced topics.
-- [CC4E — Computing Fundamentals](https://www.cc4e.com/) — Paul Krzyzanowski's course notes covering C programming, Unix/Linux systems, and networking fundamentals.
+- [CC4E — Computing Fundamentals](https://www.cc4e.com/) — In this course we will be reflecting on how C provided an important foundation for the creation of modern programming languages.
 - [What Are Deadlocks? How to Prevent Them](https://www.mathworks.com/products/polyspace/static-analysis-notes/what-deadlocks-how-prevent-during-software-development.html) — MathWorks explainer on deadlocks and prevention strategies in concurrent software. `[article to read]`
 
 ---
