@@ -50,9 +50,9 @@ Maintained as a living document — updated as new links are added.
 
 ## Sysadmin & Networking
 
+- [1xBTS](https://github.com/chrismoos/1xbts) — Open source CDMA2000 cellular network implementation.
 - [pfSense](https://www.pfsense.org/) — Open source firewall/router platform for network administration.
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) — Open source VMM for running modern cloud workloads on KVM.
-- [1xBTS](https://github.com/chrismoos/1xbts) — Open source CDMA2000 cellular network implementation.
 - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - Technical resources and utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.
 - [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
 
@@ -65,20 +65,19 @@ Maintained as a living document — updated as new links are added.
 
 ### Architecture & Infrastructure
 
-- [The Map of System Topologies](https://itnext.io/the-map-of-system-topologies-e2d3d0b89618) — Visual breakdown of system design patterns and topologies.
-- [Deployment Strategies: Types, Trade-offs, and How to Choose](https://circleci.com/blog/deployment-strategies-types-trade-offs-and-how-to-choose/) — CircleCI breakdown of blue/green, canary, rolling, and other deployment models.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
 - [System Design Pattern](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, etc.
-- [The History of Cloud Computing, Explained](https://www.techtarget.com/whatis/feature/The-history-of-cloud-computing-explained) — TechTarget overview of how cloud computing evolved.
+- [The Map of System Topologies](https://itnext.io/the-map-of-system-topologies-e2d3d0b89618) — Visual breakdown of system design patterns and topologies.
+- [The History of Cloud Computing, Explained](https://www.techtarget.com/whatis/feature/The-history-of-cloud-computing-explained) — TechTarget overview of how cloud computing evolved. `[article to read]`
+- [Deployment Strategies: Types, Trade-offs, and How to Choose](https://circleci.com/blog/deployment-strategies-types-trade-offs-and-how-to-choose/) — CircleCI breakdown of blue/green, canary, rolling, and other deployment models. `[article to read]`
 
 ---
 
 ## Linux & Command Line
 
 - [Linuxize](https://linuxize.com/) — Practical Linux tutorials and command references.
-- [GNU Bash Manual](https://www.gnu.org/software/bash/manual/html_node/index.html) — Official reference for the Bash shell.
 - [Bash Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/) - This is a practical guide which, while not always being too serious, tries to give real-life instead of theoretical examples.
-- [Linux Foundation Training](https://training.linuxfoundation.org/) — Official training and certification programs from the Linux Foundation.
+- [GNU Bash Manual](https://www.gnu.org/software/bash/manual/html_node/index.html) — Official reference for the Bash shell.
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) — Comprehensive quick-reference for Bash scripting and command line usage.
 - [systemd vs SysVinit vs OpenRC](https://cubepath.com/docs/comparison-guide/systemd-vs-sysvinit-vs-openrc) — Comparison guide covering Linux init system options and their trade-offs. `[article to read]`
 
@@ -96,7 +95,6 @@ Maintained as a living document — updated as new links are added.
 ### Dev-Experience Tools
 *Tooling that shapes how you build — editors, versioning, process management, observability.*
 
-- [Zed](https://zed.dev/) — High-performance, multiplayer code editor built in Rust.
 - [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
 - [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
 - [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
