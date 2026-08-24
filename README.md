@@ -376,6 +376,7 @@ Maintained as a living document — updated as new links are added.
 
 *Non-technical reading, and writing/music-adjacent tools — kept as one topic since it's not meant to expand.*
 
+- [Project Gutenberg](https://www.gutenberg.org/) - You will find the world's great literature here. eBooks for download.
 - [The Demon-Haunted World — Carl Sagan](https://archive.org/details/B-001-001-709/page/n11/mode/2up) — Sagan's case for scientific thinking and skepticism. Free on the Internet Archive.
 - [Tolkien Gateway](https://tolkiengateway.net/wiki/The_Silmarillion#Contents) - The Tolkien Gateway is a fan wiki that documents J. R. R. Tolkien's fantasy world of Middle-earth.
 - [Psychological Types — C.G. Jung](https://archive.org/details/dli.ernet.7919/page/n11/mode/2up) — Jung's foundational work on psychological typology and individuation. Free on the Internet Archive.
