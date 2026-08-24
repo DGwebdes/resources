@@ -13,7 +13,6 @@ Maintained as a living document — updated as new links are added.
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Web & Software Development](#web--software-development)
-- [UI & Design](#ui--design)
 - [Open Source & Dev Practice](#open-source--dev-practice)
 - [3D & Graphics](#3d--graphics)
 - [Real-Time & Media](#real-time--media)
@@ -37,14 +36,13 @@ Maintained as a living document — updated as new links are added.
 
 ## Systems Programming & OS Internals
 
-- [Beej's Guides](https://beej.us/guide/) — Practical, well-written guides covering network programming, C, and more. A classic.
-- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) — Step-by-step tutorial by Stephen Brennan on building a Unix shell from scratch in C.
-- [Unicorn Engine](https://github.com/unicorn-engine/unicorn) — Lightweight, multi-architecture CPU emulator framework.
-- [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
 - [LearnCpp.com](https://www.learncpp.com/) — Free, comprehensive C++ tutorial series from basics to advanced topics.
-- [CC4E — Computing Fundamentals](https://www.cc4e.com/) — In this course we will be reflecting on how C provided an important foundation for the creation of modern programming languages.
-- [What Are Deadlocks? How to Prevent Them](https://www.mathworks.com/products/polyspace/static-analysis-notes/what-deadlocks-how-prevent-during-software-development.html) — MathWorks explainer on deadlocks and prevention strategies in concurrent software. `[article to read]`
+- [CC4E — Computing Fundamentals](https://www.cc4e.com/) — In this course we will be reflecting on how C provided an important foundation for the creation of modern programming languages. 
+- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) — Step-by-step tutorial by Stephen Brennan on building a Unix shell from scratch in C.
+- [Beej's Guides](https://beej.us/guide/) — Practical, well-written guides covering network programming, C, and more. A classic.
+- [Unicorn Engine](https://github.com/unicorn-engine/unicorn) — Lightweight, multi-architecture CPU emulator framework.
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
+- [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
 
 ---
 
@@ -60,8 +58,6 @@ Maintained as a living document — updated as new links are added.
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
 - [System Design Pattern](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, etc.
 - [The Map of System Topologies](https://itnext.io/the-map-of-system-topologies-e2d3d0b89618) — Visual breakdown of system design patterns and topologies.
-- [The History of Cloud Computing, Explained](https://www.techtarget.com/whatis/feature/The-history-of-cloud-computing-explained) — TechTarget overview of how cloud computing evolved. `[article to read]`
-- [Deployment Strategies: Types, Trade-offs, and How to Choose](https://circleci.com/blog/deployment-strategies-types-trade-offs-and-how-to-choose/) — CircleCI breakdown of blue/green, canary, rolling, and other deployment models. `[article to read]`
 
 ### Network Monitoring & Privacy Tools
 
@@ -78,8 +74,7 @@ Maintained as a living document — updated as new links are added.
 - [Bash Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/) - This is a practical guide which, while not always being too serious, tries to give real-life instead of theoretical examples.
 - [GNU Bash Manual](https://www.gnu.org/software/bash/manual/html_node/index.html) — Official reference for the Bash shell.
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) — Comprehensive quick-reference for Bash scripting and command line usage.
-- [systemd vs SysVinit vs OpenRC](https://cubepath.com/docs/comparison-guide/systemd-vs-sysvinit-vs-openrc) — Comparison guide covering Linux init system options and their trade-offs. `[article to read]`
-
+  
 ---
 
 ## Algorithms & Data Structures
@@ -91,9 +86,16 @@ Maintained as a living document — updated as new links are added.
 
 ## Web & Software Development
 
+### Patterns
+
+- [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
+- [Design Patterns PHP](https://designpatternsphp.readthedocs.io/en/latest/) - This is a collection of known design patterns and some sample code how to implement them in PHP.
+
+
 ### Dev-Experience Tools
 *Tooling that shapes how you build — editors, versioning, process management, observability.*
 
+- [Backstage.io](https://backstage.io/) -- An open source framework for building developer portals
 - [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
 - [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
 - [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
@@ -101,30 +103,26 @@ Maintained as a living document — updated as new links are added.
 - [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
 - [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
 - [ELK Stack](https://www.elastic.co/elastic-stack/) - Elasticsearch and Kibana pave the way for diverse use cases that start with logging and span as far as your imagination takes you.
-- [Backstage.io](https://backstage.io/) - An open source framework for building developer portals.
+
 
 ### End-Product Frameworks & Libraries
 *What ships inside the app itself.*
 
 - [Relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [Fate](https://github.com/nkzw-tech/fate) - Fate is a modern data client for React.
-- [React Bits](https://reactbits.dev/) — Collection of React patterns, techniques, and tips.
-- [Motion](https://motion.dev/) — Animation library for the web (formerly Framer Motion's standalone release).
-- [Anime.js](https://github.com/juliangarnier/anime) — Lightweight JavaScript animation library with a simple but powerful API.
-- [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 - [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
-- [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
-- [Design Patterns PHP](https://designpatternsphp.readthedocs.io/en/latest/) - This is a collection of known design patterns and some sample code how to implement them in PHP.
+- [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 
 ### Databases
 
 - [SQLBolt](https://sqlbolt.com/) - A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 - [SQLite Tutorial](https://www.sqlitetutorial.net/) — Practical tutorial series covering SQLite from basics to advanced usage.
 
----
+### UI & Design
 
-## UI & Design
-
+- [React Bits](https://reactbits.dev/) — Collection of React patterns, techniques, and tips.
+- [Motion](https://motion.dev/) — Animation library for the web (formerly Framer Motion's standalone release).
+- [Anime.js](https://github.com/juliangarnier/anime) — Lightweight JavaScript animation library with a simple but powerful API.
 - [Shadcn](https://ui.shadcn.com/) — A set of beautifully designed components that you can customize, extend, and build on.
 - [Huemint](https://huemint.com/) — AI-powered color palette generator for branding and UI.
 - [Fluid Type Scale](https://www.fluid-type-scale.com/) — Generate CSS clamp-based fluid typography scales.
@@ -334,9 +332,14 @@ Maintained as a living document — updated as new links are added.
 - [Computer Networking A Top-Down Approach](https://qige.io/network/Kurose-7.pdf) - Introduces this complex subject in a top-down manner, proceeding from the application layer toward the physical layer and familiarizing you with important concepts early in your study.
 - [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, etc...
 - [Cracking the Code Interview](https://dn760101.eu.archive.org/0/items/4-programming-interviews-exposed-4th-edition/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) - Gives you the interview preparation you need to get the top software developer jobs.
-- [RFC 9110 — HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html) — The current IETF standard defining HTTP semantics, shared across HTTP/1.1, HTTP/2, and HTTP/3.
-- [Encrypted DNS in Browsers — Cloudflare](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) — Reference on DNS-over-HTTPS and how browsers implement encrypted DNS.
+  
 - [CVSS User Guide](https://www.first.org/cvss/user-guide) — FIRST's official guide to the Common Vulnerability Scoring System for rating vulnerability severity.
+- [RFC 9110 — HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html) — The current IETF standard defining HTTP semantics, shared across HTTP/1.1, HTTP/2, and HTTP/3.
+- [systemd vs SysVinit vs OpenRC](https://cubepath.com/docs/comparison-guide/systemd-vs-sysvinit-vs-openrc) — Comparison guide covering Linux init system options and their trade-offs.
+- [The History of Cloud Computing, Explained](https://www.techtarget.com/whatis/feature/The-history-of-cloud-computing-explained) — TechTarget overview of how cloud computing evolved.
+- [What Are Deadlocks? How to Prevent Them](https://www.mathworks.com/products/polyspace/static-analysis-notes/what-deadlocks-how-prevent-during-software-development.html) — MathWorks explainer on deadlocks and prevention strategies in concurrent software.
+- [Deployment Strategies: Types, Trade-offs, and How to Choose](https://circleci.com/blog/deployment-strategies-types-trade-offs-and-how-to-choose/) — CircleCI breakdown of blue/green, canary, rolling, and other deployment models.
+- [Encrypted DNS in Browsers — Cloudflare](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) — Reference on DNS-over-HTTPS and how browsers implement encrypted DNS.
 
 ---
 ---
