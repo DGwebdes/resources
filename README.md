@@ -9,7 +9,6 @@ Maintained as a living document — updated as new links are added.
 
 **Computer Science & Development**
 - [Systems Programming & OS Internals](#systems-programming--os-internals)
-- [Sysadmin & Networking](#sysadmin--networking)
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Open Source & Dev Practice](#open-source--dev-practice)
@@ -28,28 +27,6 @@ Maintained as a living document — updated as new links are added.
 - [Unicorn Engine](https://github.com/unicorn-engine/unicorn) — Lightweight, multi-architecture CPU emulator framework.
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
 - [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
-
----
-
-## Sysadmin & Networking
-
-- [pfSense](https://www.pfsense.org/) — Open source firewall/router platform for network administration.
-- [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) — Open source VMM for running modern cloud workloads on KVM.
-- [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - Technical resources and utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.
-- [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
-
-### Architecture & Infrastructure
-
-- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
-- [System Design Pattern](https://github.com/Sairyss/system-design-patterns) - Resources related to distributed systems, system design, etc.
-- [The Map of System Topologies](https://itnext.io/the-map-of-system-topologies-e2d3d0b89618) — Visual breakdown of system design patterns and topologies.
-
-### Network Monitoring & Privacy Tools
-
-- [Safing](https://safing.io/) — Open source network monitoring and privacy tool (Portmaster) for controlling app-level network access.
-- [NetBalancer](https://netbalancer.com/) — Windows tool for monitoring and controlling network traffic per-application.
-- [NetLimiter](https://www.netlimiter.com/) — Bandwidth monitoring and control tool for Windows.
-- [GlassWire](https://www.glasswire.com/) — Network monitoring tool with built-in firewall and traffic visualization.
 
 ---
 

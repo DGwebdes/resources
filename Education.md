@@ -18,7 +18,6 @@
 ### Security — Red Team & Offensive
 
 - [GIAC GWAPT Certification](https://www.giac.org/certifications/web-application-penetration-tester-gwapt) — Web Application Penetration Tester certification by GIAC.
-- [Real-World Bug Hunting (PDF)](https://github.com/Raunaksplanet/My-CyberSecurity-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf) — Peter Yaworski's field guide to web hacking and bug bounty hunting.
 - [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) — Free, comprehensive guide to Metasploit from Offensive Security.
 
 ### Security — General
@@ -48,6 +47,7 @@
 ### Books / References
 
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [Real-World Bug Hunting (PDF)](https://github.com/Raunaksplanet/My-CyberSecurity-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf) — Peter Yaworski's field guide to web hacking and bug bounty hunting.
 - [Software Engineering](https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf) - A broad perspective on software processes, requirements, and design.
 - [Computer Networking A Top-Down Approach](https://qige.io/network/Kurose-7.pdf) - Introduces this complex subject in a top-down manner, proceeding from the application layer toward the physical layer and familiarizing you with important concepts early in your study.
 - [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, etc...
