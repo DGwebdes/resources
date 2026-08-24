@@ -13,13 +13,13 @@ Maintained as a living document — updated as new links are added.
 - [Linux & Command Line](#linux--command-line)
 - [Algorithms & Data Structures](#algorithms--data-structures)
 - [Web & Software Development](#web--software-development)
-- [Real-Time & Media](#real-time--media)
+- [UI & Design](#ui--design)
+- [Open Source & Dev Practice](#open-source--dev-practice)
 - [3D & Graphics](#3d--graphics)
+- [Real-Time & Media](#real-time--media)
 - [AI & Machine Learning](#ai--machine-learning)
 - [Security](#security)
 - [OSINT](#osint)
-- [UI & Design](#ui--design)
-- [Open Source & Dev Practice](#open-source--dev-practice)
 - [Awesome Lists](#awesome-lists)
 - [Community & Threads](#community--threads)
 - [Education](#education)
@@ -50,18 +50,10 @@ Maintained as a living document — updated as new links are added.
 
 ## Sysadmin & Networking
 
-- [1xBTS](https://github.com/chrismoos/1xbts) — Open source CDMA2000 cellular network implementation.
 - [pfSense](https://www.pfsense.org/) — Open source firewall/router platform for network administration.
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) — Open source VMM for running modern cloud workloads on KVM.
 - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - Technical resources and utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.
 - [OverTheWire Wargames](https://overthewire.org/wargames/) — Browser-accessible security wargames for learning Linux and exploitation fundamentals hands-on.
-
-### Network Monitoring & Privacy Tools
-
-- [Safing](https://safing.io/) — Open source network monitoring and privacy tool (Portmaster) for controlling app-level network access.
-- [NetBalancer](https://netbalancer.com/) — Windows tool for monitoring and controlling network traffic per-application.
-- [NetLimiter](https://www.netlimiter.com/) — Bandwidth monitoring and control tool for Windows.
-- [GlassWire](https://www.glasswire.com/) — Network monitoring tool with built-in firewall and traffic visualization.
 
 ### Architecture & Infrastructure
 
@@ -70,6 +62,13 @@ Maintained as a living document — updated as new links are added.
 - [The Map of System Topologies](https://itnext.io/the-map-of-system-topologies-e2d3d0b89618) — Visual breakdown of system design patterns and topologies.
 - [The History of Cloud Computing, Explained](https://www.techtarget.com/whatis/feature/The-history-of-cloud-computing-explained) — TechTarget overview of how cloud computing evolved. `[article to read]`
 - [Deployment Strategies: Types, Trade-offs, and How to Choose](https://circleci.com/blog/deployment-strategies-types-trade-offs-and-how-to-choose/) — CircleCI breakdown of blue/green, canary, rolling, and other deployment models. `[article to read]`
+
+### Network Monitoring & Privacy Tools
+
+- [Safing](https://safing.io/) — Open source network monitoring and privacy tool (Portmaster) for controlling app-level network access.
+- [NetBalancer](https://netbalancer.com/) — Windows tool for monitoring and controlling network traffic per-application.
+- [NetLimiter](https://www.netlimiter.com/) — Bandwidth monitoring and control tool for Windows.
+- [GlassWire](https://www.glasswire.com/) — Network monitoring tool with built-in firewall and traffic visualization.
 
 ---
 
@@ -124,10 +123,19 @@ Maintained as a living document — updated as new links are added.
 
 ---
 
-## Real-Time & Media
+## UI & Design
 
-- [LiveKit](https://livekit.com/) — Open source infrastructure for real-time audio, video, and data. WebRTC at scale.
-- [openWakeWord](https://github.com/dscripka/openWakeWord) — Open-source wake word and phrase detection framework focused on performance and simplicity.
+- [Shadcn](https://ui.shadcn.com/) — A set of beautifully designed components that you can customize, extend, and build on.
+- [Huemint](https://huemint.com/) — AI-powered color palette generator for branding and UI.
+- [Fluid Type Scale](https://www.fluid-type-scale.com/) — Generate CSS clamp-based fluid typography scales.
+
+---
+
+## Open Source & Dev Practice
+
+- [Nodejs Best Practices](https://github.com/goldbergyoni/nodebestpractices) - The Node.js best practices list (July 2026).
+- [GitHub Open Source Guide](https://github.com/github/opensource.guide) — Best practices for launching and maintaining open source projects.
+- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
 
 ---
 
@@ -144,6 +152,13 @@ Maintained as a living document — updated as new links are added.
 
 ---
 
+## Real-Time & Media
+
+- [LiveKit](https://livekit.com/) — Open source infrastructure for real-time audio, video, and data. WebRTC at scale.
+- [openWakeWord](https://github.com/dscripka/openWakeWord) — Open-source wake word and phrase detection framework focused on performance and simplicity.
+
+---
+
 ## AI & Machine Learning
 
 ### Tools & Frameworks
@@ -156,11 +171,11 @@ Maintained as a living document — updated as new links are added.
 - [LM Studio JS](https://github.com/lmstudio-ai/lmstudio-js) — JavaScript SDK for interacting with LM Studio's local model runtime.
 - [OpenHands](https://github.com/OpenHands/OpenHands) — Platform for AI-powered software development agents.
 - [opencode](https://opencode.ai/docs/) — Open source AI coding agent for the terminal.
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) — Agentic framework by Nous Research built on the Hermes model series.
 - [Pi](https://pi.dev/) — Personal AI development environment.
 - [Odysseus](https://github.com/pewdiepie-archdaemon/odysseus) — Self-hosted AI workspace.
 - [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) — All-in-one local AI app for chat, image generation, and video creation. Powered by Ollama & ComfyUI.
 - [Voicebox](https://github.com/jamiepine/voicebox) — Open-source AI voice studio for cloning, dictation, and creation.
-- [Hermes Agent](https://github.com/NousResearch/hermes-agent) — Agentic framework by Nous Research built on the Hermes model series.
 - [LingBot World](https://github.com/Robbyant/lingbot-world) — Open-source world model research.
 - [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam) — Real-time face swap and deepfake video tool.
 - [Niantic Spatial](https://www.nianticspatial.com/en) - Robots, agents, and autonomous systems need world models grounded in physics and geometry, not imagination.
@@ -221,7 +236,6 @@ Maintained as a living document — updated as new links are added.
 - [BuiltWith](https://builtwith.com/) - Find out what websites are Built With.
 - [WhatWeb](https://whatweb.net/) - Scan your domain or IP address to identify content management systems, JavaScript libraries, web servers, and more.
 - [Wappalyzer](https://www.wappalyzer.com/) - Find accounts by the technologies they use.
-- [CVSS User Guide](https://www.first.org/cvss/user-guide) — FIRST's official guide to the Common Vulnerability Scoring System for rating vulnerability severity.
 - [KeePassXC](https://keepassxc.org/) — Open source, cross-platform password manager.
 - [Tails](https://tails.net/index.en.html) — Portable, amnesic live operating system focused on privacy and anonymity.
 - [GrapheneOS](https://grapheneos.org/) — Privacy and security-focused mobile OS built on the Android Open Source Project.
@@ -240,22 +254,6 @@ Maintained as a living document — updated as new links are added.
 - [SpiderFoot](https://spiderrfoot.com/) — Automated OSINT and attack surface monitoring platform.
 - [Maltego](https://www.maltego.com/) — Link-analysis and data-gathering platform for OSINT investigations and threat intelligence.
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) — OSINT tool for tracking and gathering intelligence on targets.
-
----
-
-## UI & Design
-
-- [Shadcn](https://ui.shadcn.com/) — A set of beautifully designed components that you can customize, extend, and build on.
-- [Huemint](https://huemint.com/) — AI-powered color palette generator for branding and UI.
-- [Fluid Type Scale](https://www.fluid-type-scale.com/) — Generate CSS clamp-based fluid typography scales.
-
----
-
-## Open Source & Dev Practice
-
-- [Nodejs Best Practices](https://github.com/goldbergyoni/nodebestpractices) - The Node.js best practices list (July 2026).
-- [GitHub Open Source Guide](https://github.com/github/opensource.guide) — Best practices for launching and maintaining open source projects.
-- [Microsoft Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook) — Microsoft's internal engineering best practices: code reviews, CI/CD, testing, agile, and more.
 
 ---
 
@@ -286,6 +284,15 @@ Maintained as a living document — updated as new links are added.
 
 *Certifications and structured learning materials, grouped by the topic they support.*
 
+### Cloud, DevOps & Infrastructure
+
+- [Kubernetes KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) - Proving you understand cloud native ecosystems will help you land that dream job.
+- [Github Actions](https://learn.github.com/certification/ACTIONS) - This exam is designed for DevOps engineers, software developers, and IT professionals.
+- [Terraform Associate](https://developer.hashicorp.com/certifications/infrastructure-automation) - Demonstrate your advanced Terraform production experience with the Terraform Authoring and Operations Professional certification.
+- [AWS AI Practicioner](https://aws.amazon.com/certification/certified-ai-practitioner/) - Validates in-demand knowledge of artificial intelligence (AI), machine learning (ML), and generative AI concepts and use cases.
+- [AWS Cloud Practicioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
+- [Linux Foundation IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) - It is ideal for those getting started in an IT career as an administrator/engineer.
+
 ### Security — Blue Team & Defensive
 
 - [DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) - Certification teaches you to build automated security pipelines, manage vulnerabilities at scale, and drive the cultural change needed to make security everyone's responsibility.
@@ -301,22 +308,13 @@ Maintained as a living document — updated as new links are added.
 - [ISC2](https://www.isc2.org/about) - A non-profit organization which specializes in training and professional certifications for cybersecurity professionals.
 - [Digital Skills & Job Platforms](https://digital-skills-jobs.europa.eu/en/cybersecurity-skills-academy) - The Cyber Skills Academy is an EU initiative aiming at addressing the growing cybersecurity skills and talent shortage in Europe.
 
-### Cloud, DevOps & Infrastructure
-
-- [Kubernetes KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) - Proving you understand cloud native ecosystems will help you land that dream job.
-- [Github Actions](https://learn.github.com/certification/ACTIONS) - This exam is designed for DevOps engineers, software developers, and IT professionals.
-- [Terraform Associate](https://developer.hashicorp.com/certifications/infrastructure-automation) - Demonstrate your advanced Terraform production experience with the Terraform Authoring and Operations Professional certification.
-- [AWS AI Practicioner](https://aws.amazon.com/certification/certified-ai-practitioner/) - Validates in-demand knowledge of artificial intelligence (AI), machine learning (ML), and generative AI concepts and use cases.
-- [AWS Cloud Practicioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
-- [Linux Foundation IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) - It is ideal for those getting started in an IT career as an administrator/engineer.
-
 ### AI & Machine Learning
 
-- [DeepLearning.AI Courses](https://www.deeplearning.ai/courses) — Structured AI and machine learning courses from Andrew Ng's DeepLearning.AI.
 - [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
 - [Elements of AI](https://www.elementsofai.com/) - The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki.
 - [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
+- [DeepLearning.AI Courses](https://www.deeplearning.ai/courses) — Structured AI and machine learning courses from Andrew Ng's DeepLearning.AI.
 - [Prompt Engineering](https://www.promptingguide.ai/) - Prompt engineering skills help to better understand the capabilities and limitations of large language models.
 - [Agents.md](https://agents.md/) - A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
 - [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
@@ -328,14 +326,17 @@ Maintained as a living document — updated as new links are added.
 - [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
 - [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [RFC 9110 — HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html) — The current IETF standard defining HTTP semantics, shared across HTTP/1.1, HTTP/2, and HTTP/3.
-- [Encrypted DNS in Browsers — Cloudflare](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) — Reference on DNS-over-HTTPS and how browsers implement encrypted DNS.
-- [Universidade Aberta](https://portal.uab.pt/?lang=en) - Established in 1988, Universidade Aberta (UAb) is the single public distance education university in Portugal.
+
+### Books / References
+
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [Software Engineering](https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf) - A broad perspective on software processes, requirements, and design.
 - [Computer Networking A Top-Down Approach](https://qige.io/network/Kurose-7.pdf) - Introduces this complex subject in a top-down manner, proceeding from the application layer toward the physical layer and familiarizing you with important concepts early in your study.
 - [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, etc...
 - [Cracking the Code Interview](https://dn760101.eu.archive.org/0/items/4-programming-interviews-exposed-4th-edition/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) - Gives you the interview preparation you need to get the top software developer jobs.
+- [RFC 9110 — HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html) — The current IETF standard defining HTTP semantics, shared across HTTP/1.1, HTTP/2, and HTTP/3.
+- [Encrypted DNS in Browsers — Cloudflare](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) — Reference on DNS-over-HTTPS and how browsers implement encrypted DNS.
+- [CVSS User Guide](https://www.first.org/cvss/user-guide) — FIRST's official guide to the Common Vulnerability Scoring System for rating vulnerability severity.
 
 ---
 ---
@@ -344,6 +345,7 @@ Maintained as a living document — updated as new links are added.
 
 ## Hardware & Tinkering
 
+- [1xBTS](https://github.com/chrismoos/1xbts) — Open source CDMA2000 cellular network implementation.
 - [How to Set Up a Raspberry Pi Email Server](https://www.sunfounder.com/blogs/news/how-to-set-up-a-raspberry-pi-email-server-a-complete-step-by-step-guide) — SunFounder step-by-step guide for self-hosting an email server on a Pi.
 
 ---
