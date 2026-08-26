@@ -1,25 +1,26 @@
 # Web & Software Development
 
-### Patterns
+## Patterns
 
 - [Patterns.dev — React](https://www.patterns.dev/react/) — In-depth guide to React design patterns and rendering strategies.
 - [Design Patterns PHP](https://designpatternsphp.readthedocs.io/en/latest/) - This is a collection of known design patterns and some sample code how to implement them in PHP.
 
+## Stacks
 
-### Dev-Experience Tools
+- [ELK Stack](https://www.elastic.co/elastic-stack/) - Elasticsearch and Kibana pave the way for diverse use cases that start with logging and span as far as your imagination takes you.
+
+## Dev-Experience Tools
 *Tooling that shapes how you build — editors, versioning, process management, observability.*
 
 - [Backstage.io](https://backstage.io/) -- An open source framework for building developer portals
 - [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
 - [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
 - [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
+- [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
 - [Socket Optimize](https://socket.dev/blog/introducing-socket-optimize) — Supply-chain security tool that flags and swaps out risky or malicious npm packages.
 - [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
-- [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
-- [ELK Stack](https://www.elastic.co/elastic-stack/) - Elasticsearch and Kibana pave the way for diverse use cases that start with logging and span as far as your imagination takes you.
 
-
-### End-Product Frameworks & Libraries
+## Frameworks & Libraries
 *What ships inside the app itself.*
 
 - [Relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
@@ -27,12 +28,12 @@
 - [pg-boss](https://github.com/timgit/pg-boss) — Job queueing library for Node.js backed by PostgreSQL.
 - [React-Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 
-### Databases
+## Databases
 
 - [SQLBolt](https://sqlbolt.com/) - A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 - [SQLite Tutorial](https://www.sqlitetutorial.net/) — Practical tutorial series covering SQLite from basics to advanced usage.
 
-### UI & Design
+## UI & Design
 
 - [React Bits](https://reactbits.dev/) — Collection of React patterns, techniques, and tips.
 - [Motion](https://motion.dev/) — Animation library for the web (formerly Framer Motion's standalone release).
@@ -41,4 +42,5 @@
 - [Huemint](https://huemint.com/) — AI-powered color palette generator for branding and UI.
 - [Fluid Type Scale](https://www.fluid-type-scale.com/) — Generate CSS clamp-based fluid typography scales.
 
+---
 ---
