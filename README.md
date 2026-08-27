@@ -20,10 +20,9 @@ Maintained as a living document — updated as new links are added.
 
 ## Systems Programming & OS Internals
 
-- [LearnCpp.com](https://www.learncpp.com/) — Free, comprehensive C++ tutorial series from basics to advanced topics.
-- [CC4E — Computing Fundamentals](https://www.cc4e.com/) — In this course we will be reflecting on how C provided an important foundation for the creation of modern programming languages. 
-- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) — Step-by-step tutorial by Stephen Brennan on building a Unix shell from scratch in C.
 - [Beej's Guides](https://beej.us/guide/) — Practical, well-written guides covering network programming, C, and more. A classic.
+- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) — Step-by-step tutorial by Stephen Brennan on building a Unix shell from scratch in C.
+- [CC4E — Computing Fundamentals](https://www.cc4e.com/) — In this course we will be reflecting on how C provided an important foundation for the creation of modern programming languages. 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
 - [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
 
