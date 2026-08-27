@@ -12,12 +12,11 @@
 ## Dev-Experience Tools
 *Tooling that shapes how you build — editors, versioning, process management, observability.*
 
-- [Backstage.io](https://backstage.io/) -- An open source framework for building developer portals
-- [Kakoune](https://github.com/mawww/kakoune) — Modal text editor with a focus on interactive, selection-first editing. An alternative take on vi-style editing.
 - [fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager built in Rust.
 - [npq](https://github.com/lirantal/npq) — Safely install npm packages by auditing them before install.
 - [React Scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues.
 - [Socket Optimize](https://socket.dev/blog/introducing-socket-optimize) — Supply-chain security tool that flags and swaps out risky or malicious npm packages.
+- [Backstage.io](https://backstage.io/) -- An open source framework for building developer portals
 - [PM2](https://github.com/Unitech/pm2) — Production process manager for Node.js with built-in load balancing and monitoring.
 
 ## Frameworks & Libraries
