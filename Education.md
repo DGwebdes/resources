@@ -2,7 +2,7 @@
 
 *Certifications and structured learning materials, grouped by the topic they support.*
 
-### Cloud, DevOps & Infrastructure
+## Cloud, DevOps & Infrastructure
 
 - [Kubernetes KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) - Proving you understand cloud native ecosystems will help you land that dream job.
 - [Github Actions](https://learn.github.com/certification/ACTIONS) - This exam is designed for DevOps engineers, software developers, and IT professionals.
@@ -11,34 +11,35 @@
 - [AWS Cloud Practicioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
 - [Linux Foundation IT Associate](https://training.linuxfoundation.org/certification/certified-it-associate/) - It is ideal for those getting started in an IT career as an administrator/engineer.
 
-### Security — Blue Team & Defensive
+## Security — Blue Team & Defensive
 
 - [DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) - Certification teaches you to build automated security pipelines, manage vulnerabilities at scale, and drive the cultural change needed to make security everyone's responsibility.
 
-### Security — Red Team & Offensive
+## Security — Red Team & Offensive
 
 - [GIAC GWAPT Certification](https://www.giac.org/certifications/web-application-penetration-tester-gwapt) — Web Application Penetration Tester certification by GIAC.
 - [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) — Free, comprehensive guide to Metasploit from Offensive Security.
 
-### Security — General
+## Security — General
 
 - [ISC2](https://www.isc2.org/about) - A non-profit organization which specializes in training and professional certifications for cybersecurity professionals.
 - [Digital Skills & Job Platforms](https://digital-skills-jobs.europa.eu/en/cybersecurity-skills-academy) - The Cyber Skills Academy is an EU initiative aiming at addressing the growing cybersecurity skills and talent shortage in Europe.
 
-### AI & Machine Learning
+## AI & Machine Learning
 
 - [Neural Networks: Zero to Hero — Karpathy](https://karpathy.ai/zero-to-hero.html) — Andrej Karpathy's ground-up video series on building neural networks from scratch.
 - [CS50 AI](https://cs50.harvard.edu/ai/) — Harvard's introduction to AI with Python. Covers search, knowledge, learning, neural networks, and language.
 - [Elements of AI](https://www.elementsofai.com/) - The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki.
 - [Microsoft AI For Beginners](https://microsoft.github.io/AI-For-Beginners/) — Open-source curriculum from Microsoft covering AI fundamentals across 24 lessons.
 - [DeepLearning.AI Courses](https://www.deeplearning.ai/courses) — Structured AI and machine learning courses from Andrew Ng's DeepLearning.AI.
+
+## Agentic Coding
+
 - [Prompt Engineering](https://www.promptingguide.ai/) - Prompt engineering skills help to better understand the capabilities and limitations of large language models.
-- [Agents.md](https://agents.md/) - A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
 - [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
-- [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
 - [AI Hero](https://www.aihero.dev/) — AI engineering learning platform covering prompting, agents, and applied LLM development.
 
-### General / Foundational CS
+## General / Foundational CS
 
 - [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
 - [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
