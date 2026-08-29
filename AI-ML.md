@@ -3,6 +3,8 @@
 ## Protocols & Formats
 
 - [Model Context Protocol — Getting Started](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro) — Official documentation for MCP, the open protocol for connecting AI models to tools and data sources.
+- [Agents.md](https://agents.md/) - A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
+- [Skills.sh](https://www.skills.sh/) — Reusable capabilities for AI agents. Install them with a single command.
 
 ## Tools & Frameworks
 
