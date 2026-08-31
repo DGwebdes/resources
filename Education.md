@@ -2,6 +2,17 @@
 
 *Certifications and structured learning materials, grouped by the topic they support.*
 
+## General / Foundational CS
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — MIT course covering the tools and workflows CS programs don't teach: shell, git, editors, and more.
+- [CC4E — Computing Fundamentals](https://www.cc4e.com/) — In this course we will be reflecting on how C provided an important foundation for the creation of modern programming languages. 
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+## Web / Development
+
+- [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
+- [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
+
 ## Cloud, DevOps & Infrastructure
 
 - [Kubernetes KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) - Proving you understand cloud native ecosystems will help you land that dream job.
@@ -39,17 +50,13 @@
 - [Agent Skills](https://agentskills.io/home) — Learn how a standardized way to give AI agents new capabilities and expertise works.
 - [AI Hero](https://www.aihero.dev/) — AI engineering learning platform covering prompting, agents, and applied LLM development.
 
-## General / Foundational CS
-
-- [Full Stack Open](https://fullstackopen.com/en/#course-contents) — Free deep-dive course from the University of Helsinki covering React, Node, GraphQL, TypeScript, and more.
-- [Vercel Academy](https://vercel.com/academy) — Structured learning resources from Vercel covering Next.js, deployment, and frontend infrastructure.
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ### Books / References
 
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [Real-World Bug Hunting (PDF)](https://github.com/Raunaksplanet/My-CyberSecurity-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf) — Peter Yaworski's field guide to web hacking and bug bounty hunting.
 - [Software Engineering](https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf) - A broad perspective on software processes, requirements, and design.
+- [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The book is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
 - [Computer Networking A Top-Down Approach](https://qige.io/network/Kurose-7.pdf) - Introduces this complex subject in a top-down manner, proceeding from the application layer toward the physical layer and familiarizing you with important concepts early in your study.
 - [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, etc...
 - [Cracking the Code Interview](https://dn760101.eu.archive.org/0/items/4-programming-interviews-exposed-4th-edition/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) - Gives you the interview preparation you need to get the top software developer jobs.
