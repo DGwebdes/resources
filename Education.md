@@ -54,7 +54,7 @@
 ### Books / References
 
 - [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS) 
-- [Real-World Bug Hunting (PDF) 
+- [Real-World Bug Hunting (PDF)](https://github.com/Raunaksplanet/My-CyberSecurity-Store/blob/main/Books/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking.pdf) 
 - [Software Engineering](https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf) 
 - [Operating Systems: Three Easy Parts](https://pages.cs.wisc.edu/~remzi/OSTEP/) 
 - [Computer Networking A Top-Down Approach](https://qige.io/network/Kurose-7.pdf) 
