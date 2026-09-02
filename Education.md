@@ -4,7 +4,8 @@
 ## General / Foundational CS
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
-- [CC4E — Computing Fundamentals](https://www.cc4e.com/) 
+- [CC4E — Computing Fundamentals](https://www.cc4e.com/)
+- [Learn C++](https://www.learncpp.com/) 
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) 
 
 ## Web / Development
